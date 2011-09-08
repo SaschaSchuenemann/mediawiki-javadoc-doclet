@@ -1,0 +1,4785 @@
+<?xml version="1.0" standalone="yes"?>
+<wikiDocletPages indexpagename="Javadoc:Index"><page><tle>Javadoc:ch.zhaw.helloworld</title><content>
+__TOC__
+
+=Package: ch.zhaw.helloworld=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:ch|ch]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.helloworld|helloworld]]
+
+==Interface==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public interface&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.test|test]]||Interface Test Comment.... Only a test:::
+|}
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.PrintPackagesClassesMethods|PrintPackagesClassesMethods]]||
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.Painter|Painter]]||Class informations
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.HelloWorld4|HelloWorld4]]||This is a Very bigggg Description about this Hello World Class and its purpose in the big Scary World. Since it was born as a single child it had not many friends during its childhood. But since it ... 
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.HelloWorld4.Outputer|HelloWorld4.Outputer]]||Big Nestedclass Description
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.HelloWorld4.Blub|HelloWorld4.Blub]]||That's a test
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.Graphics|Graphics]]||Graphicssssssss itttts the abstract base class for all graphics contexts which allow an application to draw onto components realized on various devices or onto off-screen images. A Graphics object enc ... 
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>f84fb874be5888bde2c4142b47d8021</hash><time>1290265072333</time></page><page><title>Javadoc:ch.zhaw.helloworld.test</title><content>Interface Test Comment.... Only a test:::
+__TOC__
+
+=Class:ch.zhaw.helloworld.test=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public interface&lt;/tt&gt; test test
+:&lt;tt&gt;extends null&lt;/tt&gt;
+
+
+Interface Test Comment.... Only a test:::
+
+'''Author:'''
+:Rolf
+
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.test#toString()|toString]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.test#printDetailedDescription()|printDetailedDescription]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.test#printDoc()|printDoc]]()&lt;/tt&gt;
+:
+
+|}
+
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public toString()&lt;/tt&gt;
+:
+
+
+
+----
+===printDetailedDescription()===
+
+&lt;tt&gt;public printDetailedDescription()&lt;/tt&gt;
+:
+
+
+
+----
+===printDoc()===
+
+&lt;tt&gt;public printDoc()&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|t]]
+[[Category:Javadoc_Documentation|t]]
+</content><hash>3016f6941bebbb4b2620a24d86e5672a</hash><time>1290265072349</time></page><page><title>Javadoc:ch.zhaw.helloworld.PrintPackagesClassesMethods</title><content>
+__TOC__
+
+=Class:ch.zhaw.helloworld.PrintPackagesClassesMethods=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; PrintPackagesClassesMethods PrintPackagesClassesMethods
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#PrintPackagesClassesMethods|PrintPackagesClassesMethods]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.PrintPackagesClassesMethods#start(RootDoc)|start]](com.sun.javadoc.RootDoc root)&lt;/tt&gt;
+:
+
+|}
+
+==Constructor Details==
+===PrintPackagesClassesMethods()===
+
+&lt;tt&gt;public PrintPackagesClassesMethods()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===start(RootDoc)===
+
+&lt;tt&gt;public static start(com.sun.javadoc.RootDoc root)&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|P]]
+[[Category:Javadoc_Documentation|P]]
+</content><hash>b1f1728ba88bea3ac357205a8244fbfe</hash><time>1290265072352</time></page><page><title>Javadoc:ch.zhaw.helloworld.Painter</title><content>Class informations
+__TOC__
+
+=Class:ch.zhaw.helloworld.Painter=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; Painter Painter
+:&lt;tt&gt;extends ch.zhaw.helloworld.Graphics&lt;/tt&gt;
+
+::&lt;tt&gt;implements java.lang.Comparable java.awt.event.ActionListener&lt;/tt&gt;
+:
+
+
+Class informations
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#Painter|Painter]]()&lt;/tt&gt;||Some Information about the 1st Constructor
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#Painter|Painter]](java.awt.Image img)&lt;/tt&gt;||Some Information about the 2nd Constructor
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#Painter|Painter]](java.awt.Image img, java.awt.Frame f)&lt;/tt&gt;||Some Information about the 3rd Constructor
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Painter#drawImage(Image, int, int, ImageObserver)|drawImage]](java.awt.Image img, int x, int y, java.awt.image.ImageObserver observer)&lt;/tt&gt;
+:Does draw some stuff in an Image
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Painter#dispose()|dispose]]()&lt;/tt&gt;
+:Does a Dispose on nothing
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Painter#compareTo(Painter)|compareTo]](ch.zhaw.helloworld.Painter o)&lt;/tt&gt;
+:Compares a Painter with another
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Painter#actionPerformed(ActionEvent)|actionPerformed]](java.awt.event.ActionEvent e)&lt;/tt&gt;
+:Does catch Actions from a Eventhandlers
+
+|}
+
+==Constructor Details==
+===Painter()===
+
+&lt;tt&gt;public Painter()&lt;/tt&gt;
+:Some Information about the 1st Constructor
+
+
+
+----
+===Painter(Image)===
+
+&lt;tt&gt;public Painter(java.awt.Image img)&lt;/tt&gt;
+:Some Information about the 2nd Constructor
+
+
+
+----
+===Painter(Image, Frame)===
+
+&lt;tt&gt;public Painter(java.awt.Image img, java.awt.Frame f)&lt;/tt&gt;
+:Some Information about the 3rd Constructor
+
+
+
+==Method Details==
+===drawImage(Image, int, int, ImageObserver)===
+
+&lt;tt&gt;public drawImage(java.awt.Image img, int x, int y, java.awt.image.ImageObserver observer)&lt;/tt&gt;
+:Does draw some stuff in an Image
+
+
+
+----
+===dispose()===
+
+&lt;tt&gt;public dispose()&lt;/tt&gt;
+:Does a Dispose on nothing
+
+
+
+----
+===compareTo(Painter)===
+
+&lt;tt&gt;public compareTo(ch.zhaw.helloworld.Painter o)&lt;/tt&gt;
+:Compares a Painter with another
+
+
+
+----
+===actionPerformed(ActionEvent)===
+
+&lt;tt&gt;public actionPerformed(java.awt.event.ActionEvent e)&lt;/tt&gt;
+:Does catch Actions from a Eventhandlers
+
+
+
+[[Category:Java_Class|P]]
+[[Category:Javadoc_Documentation|P]]
+</content><hash>1c6bdb21613608f5b0fc533edc1944</hash><time>1290265072360</time></page><page><title>Javadoc:ch.zhaw.helloworld.HelloWorld4</title><content>This is a Very bigggg Description about this Hello World Class and its purpose in the big Scary World. Since it was born as a single child it had not many friends during its childhood. But since it ... 
+__TOC__
+
+=Class:ch.zhaw.helloworld.HelloWorld4=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; HelloWorld4 HelloWorld4
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+::&lt;tt&gt;implements ch.zhaw.helloworld.test&lt;/tt&gt;
+:
+
+
+This is a Very bigggg Description about this Hello World Class and its purpose  in the big Scary World. Since it was born as a single child it had not many  friends during its childhood. But since it got the attention of many developers,  its popularity exploded. Everyone wanted to get a hand on the Hello World  Class and every single developer at least used it once during his process of  learning a new programming language.
+
+[http://www.baal.ch http://www.baal.ch] [http://www.baal2.ch http://www.baal2.ch] asf [http://www.baal4.ch http://www.baal4.ch]   * A mutable sequence of characters.  This class provides an API compatible with &lt;code&gt;StringBuffer&lt;/code&gt;, but with no guarantee of synchronization. This class is designed for use as a drop-in replacement for &lt;code&gt;StringBuffer&lt;/code&gt; in places where the string buffer was being used by a single thread (as is generally the case).   Where possible, it is recommended that this class be used in preference to &lt;code&gt;StringBuffer&lt;/code&gt; as it will be faster under most implementations.
+
+The principal operations on a &lt;code&gt;StringBuilder&lt;/code&gt; are the  &lt;code&gt;append&lt;/code&gt; and &lt;code&gt;insert&lt;/code&gt; methods, which are  overloaded so as to accept data of any type. Each effectively  converts a given datum to a string and then appends or inserts the  characters of that string to the string builder. The  &lt;code&gt;append&lt;/code&gt; method always adds these characters at the end  of the builder; the &lt;code&gt;insert&lt;/code&gt; method adds the characters at  a specified point.
+
+For example, if &lt;code&gt;z&lt;/code&gt; refers to a string builder object  whose current contents are "&lt;code&gt;start&lt;/code&gt;", then  the method call &lt;code&gt;z.append("le")&lt;/code&gt; would cause the string  builder to contain "&lt;code&gt;startle&lt;/code&gt;", whereas  &lt;code&gt;z.insert(4, "le")&lt;/code&gt; would alter the string builder to  contain "&lt;code&gt;starlet&lt;/code&gt;".
+
+In general, if sb refers to an instance of a &lt;code&gt;StringBuilder&lt;/code&gt;,  then &lt;code&gt;sb.append(x)&lt;/code&gt; has the same effect as  &lt;code&gt;sb.insert(sb.length(),&amp;nbsp;x)&lt;/code&gt;.
+
+Every string builder has a capacity. As long as the length of the  character sequence contained in the string builder does not exceed  the capacity, it is not necessary to allocate a new internal  buffer. If the internal buffer overflows, it is automatically made larger.
+
+Instances of &lt;code&gt;StringBuilder&lt;/code&gt; are not safe for use by multiple threads. If such synchronization is required then it is recommended that {@link java.lang.StringBuffer} be used.
+
+
+
+'''Author:'''
+:Rolf Koch
+
+'''Version:'''
+:1.0
+
+'''Since:'''
+:0.0
+
+
+==Nested Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.HelloWorld4.Outputer|HelloWorld4.Outputer]]||Big Nestedclass Description
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||[[Javadoc:ch.zhaw.helloworld.HelloWorld4.Blub|HelloWorld4.Blub]]||That's a test
+|}
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;static String [[Javadoc:ch.zhaw.helloworld.HelloWorld4#Bla|Bla]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#HelloWorld4|HelloWorld4]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4#getImage(URL, String)|getImage]](java.net.URL url, java.lang.String name)&lt;/tt&gt;
+:Returns an Image object that can then be painted on the screen. The url argument must specify an absolute ... 
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4#getImage(URL)|getImage]](java.net.URL url)&lt;/tt&gt;
+:Load an Image from an URL and dump it in a bin Doesn't really do something but looks kinda nice
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4#main(String)|main]](java.lang.String args)&lt;/tt&gt;
+:Shows a nice "Hello World" on the Console {@link args}. A large amount of Hello World Programs exist. But this one is Special
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4#printDetailedDescription()|printDetailedDescription]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4#printDoc()|printDoc]]()&lt;/tt&gt;
+:
+
+|}
+
+==Field Details==
+===Bla===
+
+&lt;tt&gt;static String Bla&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===HelloWorld4()===
+
+&lt;tt&gt;public HelloWorld4()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===getImage(URL, String)===
+
+&lt;tt&gt;public getImage(java.net.URL url, java.lang.String name)&lt;/tt&gt;
+:Returns an Image object that can then be painted on the screen. The url argument must specify an absolute ... 
+
+
+'''Param:'''
+:&lt;tt&gt;url&lt;/tt&gt; - an absolute URL giving the base location of the image
+'''Param:'''
+:&lt;tt&gt;name&lt;/tt&gt; - the location of the image, relative to the url argument
+'''Return:'''
+:the image at the specified URL
+
+
+----
+===getImage(URL)===
+
+&lt;tt&gt;private getImage(java.net.URL url)&lt;/tt&gt;
+:Load an Image from an URL and dump it in a bin Doesn't really do something but looks kinda nice
+
+
+'''Param:'''
+:&lt;tt&gt;url&lt;/tt&gt; - Get an URL which will not be parsed
+'''Return:'''
+:An Image with the Value Null
+
+
+----
+===main(String)===
+
+&lt;tt&gt;public main(java.lang.String args)&lt;/tt&gt;
+:Shows a nice "Hello World" on the Console {@link args}. A large amount of Hello World Programs exist. But this one is Special
+
+
+'''Param:'''
+:&lt;tt&gt;args&lt;/tt&gt; - Many Arguments can be supplied by console, but they will all be ignored
+
+----
+===printDetailedDescription()===
+
+&lt;tt&gt;public printDetailedDescription()&lt;/tt&gt;
+:
+
+
+
+----
+===printDoc()===
+
+&lt;tt&gt;public printDoc()&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|H]]
+[[Category:Javadoc_Documentation|H]]
+</content><hash>5a41c4a390264e257b56877b1d57ad6</hash><time>1290265072381</time></page><page><title>Javadoc:ch.zhaw.helloworld.HelloWorld4.Outputer</title><content>Big Nestedclass Description
+__TOC__
+
+=Class:ch.zhaw.helloworld.HelloWorld4.Outputer=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; HelloWorld4.Outputer Outputer
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+Big Nestedclass Description
+
+'''Author:'''
+:Rolf
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld.HelloWorld4#Outputer|HelloWorld4.Outputer]](java.lang.String s)&lt;/tt&gt;||Nested Constructor Method with parameters
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld.HelloWorld4#Outputer|HelloWorld4.Outputer]]()&lt;/tt&gt;||Nested Constructor method without parameter no param
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.HelloWorld4.Outputer#printit(String)|printit]](java.lang.String s)&lt;/tt&gt;
+:A Nested Method
+
+|}
+
+==Constructor Details==
+===HelloWorld4.Outputer(String)===
+
+&lt;tt&gt;public HelloWorld4.Outputer(java.lang.String s)&lt;/tt&gt;
+:Nested Constructor Method with parameters
+
+
+'''Param:'''
+:&lt;tt&gt;s&lt;/tt&gt; - test
+
+----
+===HelloWorld4.Outputer()===
+
+&lt;tt&gt;public HelloWorld4.Outputer()&lt;/tt&gt;
+:Nested Constructor method without parameter no param
+
+
+
+==Method Details==
+===printit(String)===
+
+&lt;tt&gt;public printit(java.lang.String s)&lt;/tt&gt;
+:A Nested Method
+
+
+'''Param:'''
+:&lt;tt&gt;s&lt;/tt&gt; - test
+
+[[Category:Java_Class|O]]
+[[Category:Javadoc_Documentation|O]]
+</content><hash>e5de6888530a29485ffe0e376c42171</hash><time>1290265072384</time></page><page><title>Javadoc:ch.zhaw.helloworld.HelloWorld4.Blub</title><content>That's a test
+__TOC__
+
+=Class:ch.zhaw.helloworld.HelloWorld4.Blub=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;private&lt;/tt&gt; HelloWorld4.Blub Blub
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+That's a test
+
+'''Author:'''
+:Christian Dubs
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld.HelloWorld4#Blub|HelloWorld4.Blub]]()&lt;/tt&gt;||
+|}
+
+==Constructor Details==
+===HelloWorld4.Blub()===
+
+&lt;tt&gt;public HelloWorld4.Blub()&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|B]]
+[[Category:Javadoc_Documentation|B]]
+</content><hash>c98e7fb55c5f7c1895d88cc45a951d1</hash><time>1290265072385</time></page><page><title>Javadoc:ch.zhaw.helloworld.Graphics</title><content>Graphicssssssss itttts the abstract base class for all graphics contexts which allow an application to draw onto components realized on various devices or onto off-screen images. A Graphics object enc ... 
+__TOC__
+
+=Class:ch.zhaw.helloworld.Graphics=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.helloworld|ch.zhaw.helloworld]]
+
+==Detailed Description==
+
+&lt;tt&gt;public abstract&lt;/tt&gt; Graphics Graphics
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+Graphicssssssss itttts the abstract base class for all graphics contexts which allow an application to draw onto components realized on various devices or onto off-screen images. A Graphics object encapsulates the state information needed for the various rendering operations that Java supports.  This state information includes: 
+The Component to draw on A translation origin for rendering and clipping coordinates The current clip The current color The current font The current logical pixel operation function (XOR or Paint) The current XOR alternation color (see [#setXORMode #setXORMode])  Coordinates are infinitely thin and lie between the pixels of the output device. Operations which draw the outline of a figure operate by traversing along the infinitely thin path with a pixel-sized pen that hangs down and to the right of the anchor point on the path. Operations which fill a figure operate by filling the interior of the infinitely thin path. Operations which render horizontal text render the ascending portion of the characters entirely above the baseline coordinate.  Some important points to consider are that drawing a figure that covers a given rectangle will occupy one extra row of pixels on the right and bottom edges compared to filling a figure that is bounded by that same rectangle. Also, drawing a horizontal line along the same y coordinate as the baseline of a line of text will draw the line entirely below the text except for any descenders. Both of these properties are due to the pen hanging down and to the right from the path that it traverses.  All coordinates which appear as arguments to the methods of this Graphics object are considered relative to the translation origin of this Graphics object prior to the invocation of the method. All rendering operations modify only pixels which lie within the area bounded by both the current clip of the graphics context and the extents of the Component used to create the Graphics object.
+
+'''Author:'''
+:Sami Shaio, Arthur van Hoff
+
+'''Version:'''
+:0.123
+
+'''Since:'''
+:0.1
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.helloworld#Graphics|Graphics]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Graphics#drawImage(Image, int, int, ImageObserver)|drawImage]](java.awt.Image img, int x, int y, java.awt.image.ImageObserver observer)&lt;/tt&gt;
+:Draws as much of the specified image as is currently available with its northwest corner at the specified coordinate (x, y). This method will return immediately in all cases, even if the entire image ... 
+
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Graphics#dispose()|dispose]]()&lt;/tt&gt;
+:Dispose of the system resources used by this graphics context. The Graphics context cannot be used after being disposed of. While the finalization process of the garbage collector will also dispose of ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.helloworld.Graphics#finalize()|finalize]]()&lt;/tt&gt;
+:Disposes of this graphics context once it is no longer referenced.
+
+|}
+
+==Constructor Details==
+===Graphics()===
+
+&lt;tt&gt;public Graphics()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===drawImage(Image, int, int, ImageObserver)===
+
+&lt;tt&gt;public abstract drawImage(java.awt.Image img, int x, int y, java.awt.image.ImageObserver observer)&lt;/tt&gt;
+:Draws as much of the specified image as is currently available with its northwest corner at the specified coordinate (x, y). This method will return immediately in all cases, even if the entire image ... 
+
+
+'''Param:'''
+:&lt;tt&gt;img&lt;/tt&gt; - the image to be drawn
+'''Param:'''
+:&lt;tt&gt;x&lt;/tt&gt; - the x-coordinate of the northwest corner of the destination rectangle in pixels
+'''Param:'''
+:&lt;tt&gt;y&lt;/tt&gt; - the y-coordinate of the northwest corner of the destination rectangle in pixels
+'''Param:'''
+:&lt;tt&gt;observer&lt;/tt&gt; - the image observer to be notified as more of the image is converted. May be &lt;code&gt;null&lt;/code&gt;
+'''Return:'''
+:&lt;code&gt;true&lt;/code&gt; if the image is completely loaded and was painted successfully; &lt;code&gt;false&lt;/code&gt; otherwise.
+
+'''Since:'''
+:1.0
+
+
+----
+===dispose()===
+
+&lt;tt&gt;public abstract dispose()&lt;/tt&gt;
+:Dispose of the system resources used by this graphics context. The Graphics context cannot be used after being disposed of. While the finalization process of the garbage collector will also dispose of ... 
+
+
+'''Since:'''
+:1.0
+
+
+----
+===finalize()===
+
+&lt;tt&gt;public finalize()&lt;/tt&gt;
+:Disposes of this graphics context once it is no longer referenced.
+
+
+'''Since:'''
+:1.0
+
+
+[[Category:Java_Class|G]]
+[[Category:Javadoc_Documentation|G]]
+</content><hash>cf52e7b06c8af71fc86a39dfdb8a8127</hash><time>1290265072395</time></page><page><title>Javadoc:ch.zhaw.logtester</title><content>
+__TOC__
+
+=Package: ch.zhaw.logtester=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:ch|ch]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.logtester|logtester]]
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public final&lt;/tt&gt;||[[Javadoc:ch.zhaw.logtester.LogTester|LogTester]]||A testclass for slf4j Logging in combination with any logging library. To test this example, i used log4j with success. The only dependency to this Class is the log4j.properties file in the CLASSPAT ... 
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>2572b448f7f1859b0d3a6d531a1a44c</hash><time>1290265072400</time></page><page><title>Javadoc:ch.zhaw.logtester.LogTester</title><content>A testclass for slf4j Logging in combination with any logging library. To test this example, i used log4j with success. The only dependency to this Class is the log4j.properties file in the CLASSPAT ... 
+__TOC__
+
+=Class:ch.zhaw.logtester.LogTester=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.logtester|ch.zhaw.logtester]]
+
+==Detailed Description==
+
+&lt;tt&gt;public final&lt;/tt&gt; LogTester LogTester
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+A testclass for slf4j Logging in combination with any logging library. To test this example,  i used log4j with success. The only dependency to this Class is the log4j.properties file in  the CLASSPATH Root
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private [[Javadoc:ch.zhaw.logtester#LogTester|LogTester]]()&lt;/tt&gt;||Optional Constructur (Empty)
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.logtester.LogTester#main(String)|main]](java.lang.String args)&lt;/tt&gt;
+:Creates a simple Debug output for each logging purpos in the location configured in log4j.properties If INFO Debugging is enabled an additional log entry will be created.
+
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.logtester.LogTester#logTest()|logTest]]()&lt;/tt&gt;
+:
+
+|}
+
+==Constructor Details==
+===LogTester()===
+
+&lt;tt&gt;private LogTester()&lt;/tt&gt;
+:Optional Constructur (Empty)
+
+
+
+==Method Details==
+===main(String)===
+
+&lt;tt&gt;public static main(java.lang.String args)&lt;/tt&gt;
+:Creates a simple Debug output for each logging purpos in the location configured in log4j.properties If INFO Debugging is enabled an additional log entry will be created.
+
+
+'''Param:'''
+:args
+
+
+----
+===logTest()===
+
+&lt;tt&gt;public static logTest()&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|L]]
+[[Category:Javadoc_Documentation|L]]
+</content><hash>32d2c959f9d01fb13920448f8561279f</hash><time>1290265072410</time></page><page><title>Javadoc:ch.zhaw.wikidoclet</title><content>
+__TOC__
+
+=Package: ch.zhaw.wikidoclet=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:com|com]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.wikidoclet|wikidoclet]]
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler|XMLWriterHandler]]||Filter to write an XML document from a SAX event stream. This class can be used by itself or as part of a SAX event stream: it takes as input a series of SAX2 ContentHandler events and uses the infor ... 
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.WikiDoclet|WikiDoclet]]||The WikiDoclet is used by Javadoc as a custom Doclet. It creates Wikimedia Pages from Javadoc output and places them in a XML File specified by parameter "-d" and "-f" while calling Javadoc. The WikiD ... 
+|-
+| &lt;tt&gt;&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.PageWriter|PageWriter]]||The PageWriter class is used to write the Pages to an XML File. The Class uses the Properties loaded in the WikiDocletCfg to find the location to write the File to.
+|-
+| &lt;tt&gt;&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc|AnalyseRootDoc]]||The AnalyseRootDoc Class is used to analyse a RootDoc Object from Javadoc. It iterates over all Packages and Classes in the RootDoc Object and creates a PackagePage for each PackageDoc Element and a C ... 
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>2d95717cc4178bc21d8662a80f6bdda</hash><time>1290265072445</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler</title><content>Filter to write an XML document from a SAX event stream. This class can be used by itself or as part of a SAX event stream: it takes as input a series of SAX2 ContentHandler events and uses the infor ... 
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.XMLWriterHandler=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet|ch.zhaw.wikidoclet]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; XMLWriterHandler XMLWriterHandler
+:&lt;tt&gt;extends org.xml.sax.helpers.XMLFilterImpl&lt;/tt&gt;
+
+::&lt;tt&gt;implements org.xml.sax.ext.LexicalHandler&lt;/tt&gt;
+:
+
+
+Filter to write an XML document from a SAX event stream.  This class can be used by itself or as part of a SAX event stream: it takes as input a series of SAX2 ContentHandler events and uses the information in those events to write an XML document. Since this class is a filter, it can also pass the events on down a filter chain for further processing (you can use the XMLWriter to take a snapshot of the current state at any point in a filter chain), and it can be used directly as a ContentHandler for a SAX2 XMLReader.
+
+The client creates a document by invoking the methods for standard SAX2 events, always beginning with the {@link #startDocument startDocument} method and ending with the {@link #endDocument endDocument} method. There are convenience methods provided so that clients to not have to create empty attribute lists or provide empty strings as parameters; for example, the method invocation
+
+ w.startElement(&amp;quot;foo&amp;quot;);   is equivalent to the regular SAX2 ContentHandler method
+
+ w.startElement(&amp;quot;&amp;quot;, &amp;quot;foo&amp;quot;, &amp;quot;&amp;quot;, new AttributesImpl());   Except that it is more efficient because it does not allocate a new empty attribute list each time. The following code will send a simple XML document to standard output:
+
+ XMLWriter w = new XMLWriter();  w.startDocument(); w.startElement(&amp;quot;greeting&amp;quot;); w.characters(&amp;quot;Hello, world!&amp;quot;); w.endElement(&amp;quot;greeting&amp;quot;); w.endDocument();   The resulting document will look like this:
+
+ &amp;lt;?xml version="1.0" standalone="yes"?&gt;  &amp;lt;greeting&gt;Hello, world!&amp;lt;/greeting&gt;   In fact, there is an even simpler convenience method, dataElement, designed for writing elements that contain only character data, so the code to generate the document could be shortened to
+
+ XMLWriter w = new XMLWriter();  w.startDocument(); w.dataElement(&amp;quot;greeting&amp;quot;, &amp;quot;Hello, world!&amp;quot;); w.endDocument();   Whitespace  According to the XML Recommendation, all whitespace in an XML document is potentially significant to an application, so this class never adds newlines or indentation. If you insert three elements in a row, as in
+
+ w.dataElement(&amp;quot;item&amp;quot;, &amp;quot;1&amp;quot;); w.dataElement(&amp;quot;item&amp;quot;, &amp;quot;2&amp;quot;); w.dataElement(&amp;quot;item&amp;quot;, &amp;quot;3&amp;quot;);   you will end up with
+
+ &amp;lt;item&gt;1&amp;lt;/item&gt;&amp;lt;item&gt;3&amp;lt;/item&gt;&amp;lt;item&gt;3&amp;lt;/item&gt;   You need to invoke one of the characters methods explicitly to add newlines or indentation. Alternatively, you can use {@link com.megginson.sax.DataWriter DataWriter}, which is derived from this class -- it is optimized for writing purely data-oriented (or field-oriented) XML, and does automatic linebreaks and indentation (but does not support mixed content properly).
+
+Namespace Support  The writer contains extensive support for XML Namespaces, so that a client application does not have to keep track of prefixes and supply xmlns attributes. By default, the XML writer will generate Namespace declarations in the form _NS1, _NS2, etc., wherever they are needed, as in the following example:
+
+ w.startDocument(); w.emptyElement(&amp;quot;http://www.foo.com/ns/&amp;quot;, &amp;quot;foo&amp;quot;); w.endDocument();   The resulting document will look like this:
+
+ &amp;lt;?xml version="1.0" standalone="yes"?&gt;  &amp;lt;_NS1:foo xmlns:_NS1="http://www.foo.com/ns/"/&gt;   In many cases, document authors will prefer to choose their own prefixes rather than using the (ugly) default names. The XML writer allows two methods for selecting prefixes:
+
+ the qualified name the {@link #setPrefix setPrefix} method.   Whenever the XML writer finds a new Namespace URI, it checks to see if a qualified (prefixed) name is also available; if so it attempts to use the name's prefix (as long as the prefix is not already in use for another Namespace URI).
+
+Before writing a document, the client can also pre-map a prefix to a Namespace URI with the setPrefix method:
+
+ w.setPrefix(&amp;quot;http://www.foo.com/ns/&amp;quot;, &amp;quot;foo&amp;quot;); w.startDocument(); w.emptyElement(&amp;quot;http://www.foo.com/ns/&amp;quot;, &amp;quot;foo&amp;quot;); w.endDocument();   The resulting document will look like this:
+
+ &amp;lt;?xml version="1.0" standalone="yes"?&gt;  &amp;lt;foo:foo xmlns:foo="http://www.foo.com/ns/"/&gt;   The default Namespace simply uses an empty string as the prefix:
+
+ w.setPrefix(&amp;quot;http://www.foo.com/ns/&amp;quot;, &amp;quot;&amp;quot;); w.startDocument(); w.emptyElement(&amp;quot;http://www.foo.com/ns/&amp;quot;, &amp;quot;foo&amp;quot;); w.endDocument();   The resulting document will look like this:
+
+ &amp;lt;?xml version="1.0" standalone="yes"?&gt;  &amp;lt;foo xmlns="http://www.foo.com/ns/"/&gt;   By default, the XML writer will not declare a Namespace until it is actually used. Sometimes, this approach will create a large number of Namespace declarations, as in the following example:
+
+ &amp;lt;xml version="1.0" standalone="yes"?&gt;  &amp;lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt; &amp;lt;rdf:Description about="http://www.foo.com/ids/books/12345"&gt; &amp;lt;dc:title xmlns:dc="http://www.purl.org/dc/"&gt;A Dark Night&amp;lt;/dc:title&gt; &amp;lt;dc:creator xmlns:dc="http://www.purl.org/dc/"&gt;Jane Smith&amp;lt;/dc:title&gt; &amp;lt;dc:date xmlns:dc="http://www.purl.org/dc/"&gt;2000-09-09&amp;lt;/dc:title&gt; &amp;lt;/rdf:Description&gt; &amp;lt;/rdf:RDF&gt;   The "rdf" prefix is declared only once, because the RDF Namespace is used by the root element and can be inherited by all of its descendants; the "dc" prefix, on the other hand, is declared three times, because no higher element uses the Namespace. To solve this problem, you can instruct the XML writer to predeclare Namespaces on the root element even if they are not used there:
+
+ w.forceNSDecl(&amp;quot;http://www.purl.org/dc/&amp;quot;);   Now, the "dc" prefix will be declared on the root element even though it's not needed there, and can be inherited by its descendants:
+
+ &amp;lt;xml version="1.0" standalone="yes"?&gt;  &amp;lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://www.purl.org/dc/"&gt; &amp;lt;rdf:Description about="http://www.foo.com/ids/books/12345"&gt; &amp;lt;dc:title&gt;A Dark Night&amp;lt;/dc:title&gt; &amp;lt;dc:creator&gt;Jane Smith&amp;lt;/dc:title&gt; &amp;lt;dc:date&gt;2000-09-09&amp;lt;/dc:title&gt; &amp;lt;/rdf:Description&gt; &amp;lt;/rdf:RDF&gt;   This approach is also useful for declaring Namespace prefixes that be used by qualified names appearing in attribute values or character data.
+
+
+
+'''Author:'''
+:David Megginson, david@megginson.com
+
+'''Version:'''
+:0.2
+
+'''See also:'''
+[[Javadoc:David Megginson, david@megginson.com|com]][[Javadoc:0.2|2]][[Javadoc:org.xml.sax.XMLFilter|XMLFilter]][[Javadoc:org.xml.sax.ContentHandler|ContentHandler]]
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#booleans|booleans]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private final Attributes [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#EMPTY_ATTS|EMPTY_ATTS]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#CDATA_SECTION_ELEMENTS|CDATA_SECTION_ELEMENTS]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#DOCTYPE_PUBLIC|DOCTYPE_PUBLIC]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#DOCTYPE_SYSTEM|DOCTYPE_SYSTEM]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#ENCODING|ENCODING]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#INDENT|INDENT]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#MEDIA_TYPE|MEDIA_TYPE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#METHOD|METHOD]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#OMIT_XML_DECLARATION|OMIT_XML_DECLARATION]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#STANDALONE|STANDALONE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#VERSION|VERSION]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private Hashtable [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#prefixTable|prefixTable]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private Hashtable [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#forcedDeclTable|forcedDeclTable]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private Hashtable [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#doneDeclTable|doneDeclTable]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private int [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#elementLevel|elementLevel]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private Writer [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#output|output]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private NamespaceSupport [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#nsSupport|nsSupport]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private int [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#prefixCounter|prefixCounter]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private Properties [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#outputProperties|outputProperties]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private boolean [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#unicodeMode|unicodeMode]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#outputEncoding|outputEncoding]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private boolean [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#htmlMode|htmlMode]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private boolean [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#forceDTD|forceDTD]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private boolean [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#hasOutputDTD|hasOutputDTD]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#overridePublic|overridePublic]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#overrideSystem|overrideSystem]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#version|version]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private String [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#standalone|standalone]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private boolean [[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#cdataElement|cdataElement]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#XMLWriterHandler|XMLWriterHandler]]()&lt;/tt&gt;||Create a new XML writer. Write to standard output. 
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#XMLWriterHandler|XMLWriterHandler]](java.io.Writer writer)&lt;/tt&gt;||Create a new XML writer. Write to the writer provided. 
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#XMLWriterHandler|XMLWriterHandler]](org.xml.sax.XMLReader xmlreader)&lt;/tt&gt;||Create a new XML writer. Use the specified XML reader as the parent. 
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#XMLWriterHandler|XMLWriterHandler]](org.xml.sax.XMLReader xmlreader, java.io.Writer writer)&lt;/tt&gt;||Create a new XML writer. Use the specified XML reader as the parent, and write to the specified writer. 
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#init(Writer)|init]](java.io.Writer writer)&lt;/tt&gt;
+:Internal initialization method. All of the public constructors invoke this method.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#reset()|reset]]()&lt;/tt&gt;
+:Reset the writer. This method is especially useful if the writer throws an exception before it is finished, and you want to reuse the writer for a new document. It is usually a good idea to invoke {@link #flush flush} before resetting the writer, to make sure that no output is lost. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#flush()|flush]]()&lt;/tt&gt;
+:Flush the output. This method flushes the output stream. It is especially useful when you need to make certain that the entire document has been written to output but do not want to close the output stream. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#setOutput(Writer)|setOutput]](java.io.Writer writer)&lt;/tt&gt;
+:Set a new output destination for the document.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#setPrefix(String, String)|setPrefix]](java.lang.String uri, java.lang.String prefix)&lt;/tt&gt;
+:Specify a preferred prefix for a Namespace URI. Note that this method does not actually force the Namespace to be declared; to do that, use the {@link #forceNSDecl(java.lang.String) forceNSDecl} method as well. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#getPrefix(String)|getPrefix]](java.lang.String uri)&lt;/tt&gt;
+:Get the current or preferred prefix for a Namespace URI.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#forceNSDecl(String)|forceNSDecl]](java.lang.String uri)&lt;/tt&gt;
+:Force a Namespace to be declared on the root element. By default, the XMLWriter will declare only the Namespaces needed for an element; as a result, a Namespace may be declared many places in a document if it is not used on the root element. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#forceNSDecl(String, String)|forceNSDecl]](java.lang.String uri, java.lang.String prefix)&lt;/tt&gt;
+:Force a Namespace declaration with a preferred prefix. This is a convenience method that invokes {@link #setPrefix setPrefix} then {@link #forceNSDecl(java.lang.String) forceNSDecl}. 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startDocument()|startDocument]]()&lt;/tt&gt;
+:Write the XML declaration at the beginning of the document. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endDocument()|endDocument]]()&lt;/tt&gt;
+:Write a newline at the end of the document. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startElement(String, String, String, Attributes)|startElement]](java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write a start tag. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endElement(String, String, String)|endElement]](java.lang.String uri, java.lang.String localName, java.lang.String qName)&lt;/tt&gt;
+:Write an end tag. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#characters(char, int, int)|characters]](char ch, int start, int len)&lt;/tt&gt;
+:Write character data. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#ignorableWhitespace(char, int, int)|ignorableWhitespace]](char ch, int start, int length)&lt;/tt&gt;
+:Write ignorable whitespace. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#processingInstruction(String, String)|processingInstruction]](java.lang.String target, java.lang.String data)&lt;/tt&gt;
+:Write a processing instruction. Pass the event on down the filter chain for further processing.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#emptyElement(String, String, String, Attributes)|emptyElement]](java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write an empty element. This method writes an empty element tag rather than a start tag followed by an end tag. Both a {@link #startElement startElement} and an {@link #endElement endElement} event w ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startElement(String, String)|startElement]](java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:Start a new element without a qname or attributes. This method will provide a default empty attribute list and an empty string for the qualified name. It invokes {@link #startElement(String, String, String, Attributes)} directly. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startElement(String)|startElement]](java.lang.String localName)&lt;/tt&gt;
+:Start a new element without a qname, attributes or a Namespace URI. This method will provide an empty string for the Namespace URI, and empty string for the qualified name, and a default empty attribute list. It invokes #startElement(String, String, String, Attributes)} directly. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endElement(String, String)|endElement]](java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:End an element without a qname. This method will supply an empty string for the qName. It invokes {@link #endElement(String, String, String)} directly. 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endElement(String)|endElement]](java.lang.String localName)&lt;/tt&gt;
+:End an element without a Namespace URI or qname. This method will supply an empty string for the qName and an empty string for the Namespace URI. It invokes {@link #endElement(String, String, String)} directly. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#emptyElement(String, String)|emptyElement]](java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:Add an empty element without a qname or attributes. This method will supply an empty string for the qname and an empty attribute list. It invokes {@link #emptyElement(String, String, String, Attributes)} directly. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#emptyElement(String)|emptyElement]](java.lang.String localName)&lt;/tt&gt;
+:Add an empty element without a Namespace URI, qname or attributes. This method will supply an empty string for the qname, and empty string for the Namespace URI, and an empty attribute list. It invokes {@link #emptyElement(String, String, String, Attributes)} directly. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#dataElement(String, String, String, Attributes, String)|dataElement]](java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content. This is a convenience method to write a complete element with character data content, including the start tag and end tag.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#dataElement(String, String, String)|dataElement]](java.lang.String uri, java.lang.String localName, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content but no attributes. This is a convenience method to write a complete element with character data content, including the start tag and end tag. This method provides an empty string for the qname and an empty attribute list. ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#dataElement(String, String)|dataElement]](java.lang.String localName, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content but no attributes or Namespace URI. This is a convenience method to write a complete element with character data content, including the start tag and end ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#characters(String)|characters]](java.lang.String data)&lt;/tt&gt;
+:Write a string of character data, with XML escaping. This is a convenience method that takes an XML String, converts it to a character array, then invokes {@link #characters(char[], int, int)}. 
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#forceNSDecls()|forceNSDecls]]()&lt;/tt&gt;
+:Force all Namespaces to be declared. This method is used on the root element to ensure that the predeclared Namespaces all appear.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#doPrefix(String, String, boolean)|doPrefix]](java.lang.String uri, java.lang.String qName, boolean isElement)&lt;/tt&gt;
+:Determine the prefix for an element or attribute name. TODO: this method probably needs some cleanup.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#write(char)|write]](char c)&lt;/tt&gt;
+:Write a raw character.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#write(String)|write]](java.lang.String s)&lt;/tt&gt;
+:Write a raw string.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#writeAttributes(Attributes)|writeAttributes]](org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write out an attribute list, escaping values. The names will have prefixes added to them.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#booleanAttribute(String, String, String)|booleanAttribute]](java.lang.String localName, java.lang.String qName, java.lang.String value)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#writeEsc(char, int, int, boolean)|writeEsc]](char ch, int start, int length, boolean isAttVal)&lt;/tt&gt;
+:Write an array of data characters with escaping.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#writeNSDecls()|writeNSDecls]]()&lt;/tt&gt;
+:Write out the list of Namespace declarations.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#writeName(String, String, String, boolean)|writeName]](java.lang.String uri, java.lang.String localName, java.lang.String qName, boolean isElement)&lt;/tt&gt;
+:Write an element or attribute name.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#comment(char, int, int)|comment]](char ch, int start, int length)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endCDATA()|endCDATA]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endDTD()|endDTD]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#endEntity(String)|endEntity]](java.lang.String name)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startCDATA()|startCDATA]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startDTD(String, String, String)|startDTD]](java.lang.String name, java.lang.String publicid, java.lang.String systemid)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#startEntity(String)|startEntity]](java.lang.String name)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#getOutputProperty(String)|getOutputProperty]](java.lang.String key)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler#setOutputProperty(String, String)|setOutputProperty]](java.lang.String key, java.lang.String value)&lt;/tt&gt;
+:
+
+|}
+
+==Field Details==
+===booleans===
+
+&lt;tt&gt;private String booleans&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===EMPTY_ATTS===
+
+&lt;tt&gt;private final Attributes EMPTY_ATTS&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===CDATA_SECTION_ELEMENTS===
+
+&lt;tt&gt;public static final String CDATA_SECTION_ELEMENTS&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===DOCTYPE_PUBLIC===
+
+&lt;tt&gt;public static final String DOCTYPE_PUBLIC&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===DOCTYPE_SYSTEM===
+
+&lt;tt&gt;public static final String DOCTYPE_SYSTEM&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===ENCODING===
+
+&lt;tt&gt;public static final String ENCODING&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===INDENT===
+
+&lt;tt&gt;public static final String INDENT&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===MEDIA_TYPE===
+
+&lt;tt&gt;public static final String MEDIA_TYPE&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===METHOD===
+
+&lt;tt&gt;public static final String METHOD&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===OMIT_XML_DECLARATION===
+
+&lt;tt&gt;public static final String OMIT_XML_DECLARATION&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===STANDALONE===
+
+&lt;tt&gt;public static final String STANDALONE&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===VERSION===
+
+&lt;tt&gt;public static final String VERSION&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===prefixTable===
+
+&lt;tt&gt;private Hashtable prefixTable&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===forcedDeclTable===
+
+&lt;tt&gt;private Hashtable forcedDeclTable&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===doneDeclTable===
+
+&lt;tt&gt;private Hashtable doneDeclTable&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===elementLevel===
+
+&lt;tt&gt;private int elementLevel&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===output===
+
+&lt;tt&gt;private Writer output&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===nsSupport===
+
+&lt;tt&gt;private NamespaceSupport nsSupport&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===prefixCounter===
+
+&lt;tt&gt;private int prefixCounter&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===outputProperties===
+
+&lt;tt&gt;private Properties outputProperties&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===unicodeMode===
+
+&lt;tt&gt;private boolean unicodeMode&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===outputEncoding===
+
+&lt;tt&gt;private String outputEncoding&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===htmlMode===
+
+&lt;tt&gt;private boolean htmlMode&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===forceDTD===
+
+&lt;tt&gt;private boolean forceDTD&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===hasOutputDTD===
+
+&lt;tt&gt;private boolean hasOutputDTD&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===overridePublic===
+
+&lt;tt&gt;private String overridePublic&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===overrideSystem===
+
+&lt;tt&gt;private String overrideSystem&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===version===
+
+&lt;tt&gt;private String version&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===standalone===
+
+&lt;tt&gt;private String standalone&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===cdataElement===
+
+&lt;tt&gt;private boolean cdataElement&lt;/tt&gt;
+
+:
+'''See also:'''
+
+
+==Constructor Details==
+===XMLWriterHandler()===
+
+&lt;tt&gt;public XMLWriterHandler()&lt;/tt&gt;
+:Create a new XML writer. Write to standard output. 
+
+
+'''See also:'''
+
+----
+===XMLWriterHandler(Writer)===
+
+&lt;tt&gt;public XMLWriterHandler(java.io.Writer writer)&lt;/tt&gt;
+:Create a new XML writer. Write to the writer provided. 
+
+
+'''Param:'''
+:&lt;tt&gt;writer&lt;/tt&gt; - The output destination, or null to use standard output.
+'''See also:'''
+[[Javadoc:writer
+            The output destination, or null to use standard output.|writer
+            The output destination, or null to use standard output]]
+----
+===XMLWriterHandler(XMLReader)===
+
+&lt;tt&gt;public XMLWriterHandler(org.xml.sax.XMLReader xmlreader)&lt;/tt&gt;
+:Create a new XML writer. Use the specified XML reader as the parent. 
+
+
+'''Param:'''
+:&lt;tt&gt;xmlreader&lt;/tt&gt; - The parent in the filter chain, or null for no parent.
+'''See also:'''
+[[Javadoc:xmlreader
+            The parent in the filter chain, or null for no parent.|xmlreader
+            The parent in the filter chain, or null for no parent]]
+----
+===XMLWriterHandler(XMLReader, Writer)===
+
+&lt;tt&gt;public XMLWriterHandler(org.xml.sax.XMLReader xmlreader, java.io.Writer writer)&lt;/tt&gt;
+:Create a new XML writer. Use the specified XML reader as the parent, and write to the specified writer. 
+
+
+'''Param:'''
+:&lt;tt&gt;xmlreader&lt;/tt&gt; - The parent in the filter chain, or null for no parent.
+'''Param:'''
+:&lt;tt&gt;writer&lt;/tt&gt; - The output destination, or null to use standard output.
+'''See also:'''
+[[Javadoc:xmlreader
+            The parent in the filter chain, or null for no parent.|xmlreader
+            The parent in the filter chain, or null for no parent]][[Javadoc:writer
+            The output destination, or null to use standard output.|writer
+            The output destination, or null to use standard output]]
+==Method Details==
+===init(Writer)===
+
+&lt;tt&gt;private init(java.io.Writer writer)&lt;/tt&gt;
+:Internal initialization method. All of the public constructors invoke this method.
+
+
+'''Param:'''
+:&lt;tt&gt;writer&lt;/tt&gt; - The output destination, or null to use standard output.
+'''See also:'''
+[[Javadoc:writer
+            The output destination, or null to use standard output.|writer
+            The output destination, or null to use standard output]]
+----
+===reset()===
+
+&lt;tt&gt;public reset()&lt;/tt&gt;
+:Reset the writer. This method is especially useful if the writer throws an exception before it is finished, and you want to reuse the writer for a new document. It is usually a good idea to invoke {@link #flush flush} before resetting the writer, to make sure that no output is lost. ... 
+
+
+'''See also:'''
+[[Javadoc:#flush|#flush]]
+----
+===flush()===
+
+&lt;tt&gt;public flush()&lt;/tt&gt;
+:Flush the output. This method flushes the output stream. It is especially useful when you need to make certain that the entire document has been written to output but do not want to close the output stream. ... 
+
+
+'''See also:'''
+[[Javadoc:#reset|#reset]]
+----
+===setOutput(Writer)===
+
+&lt;tt&gt;public setOutput(java.io.Writer writer)&lt;/tt&gt;
+:Set a new output destination for the document.
+
+
+'''Param:'''
+:&lt;tt&gt;writer&lt;/tt&gt; - The output destination, or null to use standard output.
+'''Return:'''
+:The current output writer.
+
+'''See also:'''
+[[Javadoc:writer
+            The output destination, or null to use standard output.|writer
+            The output destination, or null to use standard output]][[Javadoc:The current output writer.|The current output writer]][[Javadoc:#flush|#flush]]
+----
+===setPrefix(String, String)===
+
+&lt;tt&gt;public setPrefix(java.lang.String uri, java.lang.String prefix)&lt;/tt&gt;
+:Specify a preferred prefix for a Namespace URI. Note that this method does not actually force the Namespace to be declared; to do that, use the {@link #forceNSDecl(java.lang.String) forceNSDecl} method as well. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI.
+'''Param:'''
+:&lt;tt&gt;prefix&lt;/tt&gt; - The preferred prefix, or "" to select the default Namespace.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI.|uri
+            The Namespace URI]][[Javadoc:prefix
+            The preferred prefix, or "" to select the default Namespace.|prefix
+            The preferred prefix, or "" to select the default Namespace]][[Javadoc:#getPrefix|#getPrefix]][[Javadoc:#forceNSDecl(java.lang.String)|String)]][[Javadoc:#forceNSDecl(java.lang.String,java.lang.String)|String)]]
+----
+===getPrefix(String)===
+
+&lt;tt&gt;public getPrefix(java.lang.String uri)&lt;/tt&gt;
+:Get the current or preferred prefix for a Namespace URI.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI.
+'''Return:'''
+:The preferred prefix, or "" for the default Namespace.
+
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI.|uri
+            The Namespace URI]][[Javadoc:The preferred prefix, or "" for the default Namespace.|The preferred prefix, or "" for the default Namespace]][[Javadoc:#setPrefix|#setPrefix]]
+----
+===forceNSDecl(String)===
+
+&lt;tt&gt;public forceNSDecl(java.lang.String uri)&lt;/tt&gt;
+:Force a Namespace to be declared on the root element. By default, the XMLWriter will declare only the Namespaces needed for an element; as a result, a Namespace may be declared many places in a document if it is not used on the root element. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI to declare.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI to declare.|uri
+            The Namespace URI to declare]][[Javadoc:#forceNSDecl(java.lang.String,java.lang.String)|String)]][[Javadoc:#setPrefix|#setPrefix]]
+----
+===forceNSDecl(String, String)===
+
+&lt;tt&gt;public forceNSDecl(java.lang.String uri, java.lang.String prefix)&lt;/tt&gt;
+:Force a Namespace declaration with a preferred prefix. This is a convenience method that invokes {@link #setPrefix setPrefix} then {@link #forceNSDecl(java.lang.String) forceNSDecl}. 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI to declare on the root element.
+'''Param:'''
+:&lt;tt&gt;prefix&lt;/tt&gt; - The preferred prefix for the Namespace, or "" for the default Namespace.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI to declare on the root element.|uri
+            The Namespace URI to declare on the root element]][[Javadoc:prefix
+            The preferred prefix for the Namespace, or "" for the default
+            Namespace.|prefix
+            The preferred prefix for the Namespace, or "" for the default
+            Namespace]][[Javadoc:#setPrefix|#setPrefix]][[Javadoc:#forceNSDecl(java.lang.String)|String)]]
+----
+===startDocument()===
+
+&lt;tt&gt;public startDocument()&lt;/tt&gt;
+:Write the XML declaration at the beginning of the document. Pass the event on down the filter chain for further processing.
+
+
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the XML declaration, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the XML declaration, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the XML declaration, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#startDocument|ContentHandler#startDocument]]
+----
+===endDocument()===
+
+&lt;tt&gt;public endDocument()&lt;/tt&gt;
+:Write a newline at the end of the document. Pass the event on down the filter chain for further processing.
+
+
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the newline, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the newline, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the newline, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#endDocument|ContentHandler#endDocument]]
+----
+===startElement(String, String, String, Attributes)===
+
+&lt;tt&gt;public startElement(java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write a start tag. Pass the event on down the filter chain for further processing.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI, or the empty string if none is available.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local (unprefixed) name (required).
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The element's qualified (prefixed) name, or the empty string is none is available. This method will use the qName as a template for generating a prefix if necessary, but it is not guaranteed to use the same qName.
+'''Param:'''
+:&lt;tt&gt;atts&lt;/tt&gt; - The element's attribute list (must not be null).
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the start tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI, or the empty string if none is available.|uri
+            The Namespace URI, or the empty string if none is available]][[Javadoc:localName
+            The element's local (unprefixed) name (required).|localName
+            The element's local (unprefixed) name (required)]][[Javadoc:qName
+            The element's qualified (prefixed) name, or the empty string
+            is none is available. This method will use the qName as a
+            template for generating a prefix if necessary, but it is not
+            guaranteed to use the same qName.| This method will use the qName as a
+            template for generating a prefix if necessary, but it is not
+            guaranteed to use the same qName]][[Javadoc:atts
+            The element's attribute list (must not be null).|atts
+            The element's attribute list (must not be null)]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#startElement|ContentHandler#startElement]]
+----
+===endElement(String, String, String)===
+
+&lt;tt&gt;public endElement(java.lang.String uri, java.lang.String localName, java.lang.String qName)&lt;/tt&gt;
+:Write an end tag. Pass the event on down the filter chain for further processing.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI, or the empty string if none is available.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local (unprefixed) name (required).
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The element's qualified (prefixed) name, or the empty string is none is available. This method will use the qName as a template for generating a prefix if necessary, but it is not guaranteed to use the same qName.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the end tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI, or the empty string if none is available.|uri
+            The Namespace URI, or the empty string if none is available]][[Javadoc:localName
+            The element's local (unprefixed) name (required).|localName
+            The element's local (unprefixed) name (required)]][[Javadoc:qName
+            The element's qualified (prefixed) name, or the empty string
+            is none is available. This method will use the qName as a
+            template for generating a prefix if necessary, but it is not
+            guaranteed to use the same qName.| This method will use the qName as a
+            template for generating a prefix if necessary, but it is not
+            guaranteed to use the same qName]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#endElement|ContentHandler#endElement]]
+----
+===characters(char, int, int)===
+
+&lt;tt&gt;public characters(char ch, int start, int len)&lt;/tt&gt;
+:Write character data. Pass the event on down the filter chain for further processing.
+
+
+'''Param:'''
+:&lt;tt&gt;ch&lt;/tt&gt; - The array of characters to write.
+'''Param:'''
+:&lt;tt&gt;start&lt;/tt&gt; - The starting position in the array.
+'''Param:'''
+:&lt;tt&gt;length&lt;/tt&gt; - The number of characters to write.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the characters, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:ch
+            The array of characters to write.|ch
+            The array of characters to write]][[Javadoc:start
+            The starting position in the array.|start
+            The starting position in the array]][[Javadoc:length
+            The number of characters to write.|length
+            The number of characters to write]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the characters, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the characters, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#characters|ContentHandler#characters]]
+----
+===ignorableWhitespace(char, int, int)===
+
+&lt;tt&gt;public ignorableWhitespace(char ch, int start, int length)&lt;/tt&gt;
+:Write ignorable whitespace. Pass the event on down the filter chain for further processing.
+
+
+'''Param:'''
+:&lt;tt&gt;ch&lt;/tt&gt; - The array of characters to write.
+'''Param:'''
+:&lt;tt&gt;start&lt;/tt&gt; - The starting position in the array.
+'''Param:'''
+:&lt;tt&gt;length&lt;/tt&gt; - The number of characters to write.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the whitespace, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:ch
+            The array of characters to write.|ch
+            The array of characters to write]][[Javadoc:start
+            The starting position in the array.|start
+            The starting position in the array]][[Javadoc:length
+            The number of characters to write.|length
+            The number of characters to write]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the whitespace, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the whitespace, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#ignorableWhitespace|ContentHandler#ignorableWhitespace]]
+----
+===processingInstruction(String, String)===
+
+&lt;tt&gt;public processingInstruction(java.lang.String target, java.lang.String data)&lt;/tt&gt;
+:Write a processing instruction. Pass the event on down the filter chain for further processing.
+
+
+'''Param:'''
+:&lt;tt&gt;target&lt;/tt&gt; - The PI target.
+'''Param:'''
+:&lt;tt&gt;data&lt;/tt&gt; - The PI data.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the PI, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:target
+            The PI target.|target
+            The PI target]][[Javadoc:data
+            The PI data.|data
+            The PI data]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the PI, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the PI, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:org.xml.sax.ContentHandler#processingInstruction|ContentHandler#processingInstruction]]
+----
+===emptyElement(String, String, String, Attributes)===
+
+&lt;tt&gt;public emptyElement(java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write an empty element. This method writes an empty element tag rather than a start tag followed by an end tag. Both a {@link #startElement startElement} and an {@link #endElement endElement} event w ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI, or the empty string if the element has no Namespace or if Namespace processing is not being performed.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name (without prefix). This parameter must be provided.
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The element's qualified name (with prefix), or the empty string if none is available. This parameter is strictly advisory: the writer may or may not use the prefix attached.
+'''Param:'''
+:&lt;tt&gt;atts&lt;/tt&gt; - The element's attribute list.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI, or the empty string if the
+            element has no Namespace or if Namespace processing is not
+            being performed.|uri
+            The element's Namespace URI, or the empty string if the
+            element has no Namespace or if Namespace processing is not
+            being performed]][[Javadoc:localName
+            The element's local name (without prefix). This parameter must
+            be provided.| This parameter must
+            be provided]][[Javadoc:qName
+            The element's qualified name (with prefix), or the empty
+            string if none is available. This parameter is strictly
+            advisory: the writer may or may not use the prefix attached.| This parameter is strictly
+            advisory: the writer may or may not use the prefix attached]][[Javadoc:atts
+            The element's attribute list.|atts
+            The element's attribute list]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement|#startElement]][[Javadoc:#endElement|#endElement]]
+----
+===startElement(String, String)===
+
+&lt;tt&gt;public startElement(java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:Start a new element without a qname or attributes. This method will provide a default empty attribute list and an empty string for the qualified name. It invokes {@link #startElement(String, String, String, Attributes)} directly. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the start tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI.|uri
+            The element's Namespace URI]][[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement(String, String, String, Attributes)|#startElement(String, String, String, Attributes)]]
+----
+===startElement(String)===
+
+&lt;tt&gt;public startElement(java.lang.String localName)&lt;/tt&gt;
+:Start a new element without a qname, attributes or a Namespace URI. This method will provide an empty string for the Namespace URI, and empty string for the qualified name, and a default empty attribute list. It invokes #startElement(String, String, String, Attributes)} directly. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the start tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the start tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement(String, String, String, Attributes)|#startElement(String, String, String, Attributes)]]
+----
+===endElement(String, String)===
+
+&lt;tt&gt;public endElement(java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:End an element without a qname. This method will supply an empty string for the qName. It invokes {@link #endElement(String, String, String)} directly. 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the end tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI.|uri
+            The element's Namespace URI]][[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:#endElement(String, String, String)|#endElement(String, String, String)]]
+----
+===endElement(String)===
+
+&lt;tt&gt;public endElement(java.lang.String localName)&lt;/tt&gt;
+:End an element without a Namespace URI or qname. This method will supply an empty string for the qName and an empty string for the Namespace URI. It invokes {@link #endElement(String, String, String)} directly. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the end tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the end tag, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:#endElement(String, String, String)|#endElement(String, String, String)]]
+----
+===emptyElement(String, String)===
+
+&lt;tt&gt;public emptyElement(java.lang.String uri, java.lang.String localName)&lt;/tt&gt;
+:Add an empty element without a qname or attributes. This method will supply an empty string for the qname and an empty attribute list. It invokes {@link #emptyElement(String, String, String, Attributes)} directly. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI.|uri
+            The element's Namespace URI]][[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#emptyElement(String, String, String, Attributes)|#emptyElement(String, String, String, Attributes)]]
+----
+===emptyElement(String)===
+
+&lt;tt&gt;public emptyElement(java.lang.String localName)&lt;/tt&gt;
+:Add an empty element without a Namespace URI, qname or attributes. This method will supply an empty string for the qname, and empty string for the Namespace URI, and an empty attribute list. It invokes {@link #emptyElement(String, String, String, Attributes)} directly. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#emptyElement(String, String, String, Attributes)|#emptyElement(String, String, String, Attributes)]]
+----
+===dataElement(String, String, String, Attributes, String)===
+
+&lt;tt&gt;public dataElement(java.lang.String uri, java.lang.String localName, java.lang.String qName, org.xml.sax.Attributes atts, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content. This is a convenience method to write a complete element with character data content, including the start tag and end tag.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The element's default qualified name.
+'''Param:'''
+:&lt;tt&gt;atts&lt;/tt&gt; - The element's attributes.
+'''Param:'''
+:&lt;tt&gt;content&lt;/tt&gt; - The character data content.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI.|uri
+            The element's Namespace URI]][[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:qName
+            The element's default qualified name.|qName
+            The element's default qualified name]][[Javadoc:atts
+            The element's attributes.|atts
+            The element's attributes]][[Javadoc:content
+            The character data content.|content
+            The character data content]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement(String, String, String, Attributes)|#startElement(String, String, String, Attributes)]][[Javadoc:#characters(String)|#characters(String)]][[Javadoc:#endElement(String, String, String)|#endElement(String, String, String)]]
+----
+===dataElement(String, String, String)===
+
+&lt;tt&gt;public dataElement(java.lang.String uri, java.lang.String localName, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content but no attributes. This is a convenience method to write a complete element with character data content, including the start tag and end tag. This method provides an empty string for the qname and an empty attribute list. ... 
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The element's Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Param:'''
+:&lt;tt&gt;content&lt;/tt&gt; - The character data content.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:uri
+            The element's Namespace URI.|uri
+            The element's Namespace URI]][[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:content
+            The character data content.|content
+            The character data content]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement(String, String, String, Attributes)|#startElement(String, String, String, Attributes)]][[Javadoc:#characters(String)|#characters(String)]][[Javadoc:#endElement(String, String, String)|#endElement(String, String, String)]]
+----
+===dataElement(String, String)===
+
+&lt;tt&gt;public dataElement(java.lang.String localName, java.lang.String content)&lt;/tt&gt;
+:Write an element with character data content but no attributes or Namespace URI. This is a convenience method to write a complete element with character data content, including the start tag and end ... 
+
+
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The element's local name.
+'''Param:'''
+:&lt;tt&gt;content&lt;/tt&gt; - The character data content.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the empty tag, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:localName
+            The element's local name.|localName
+            The element's local name]][[Javadoc:content
+            The character data content.|content
+            The character data content]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception.|SAXException
+                If there is an error writing the empty tag, or if a
+                handler further down the filter chain raises an exception]][[Javadoc:#startElement(String, String, String, Attributes)|#startElement(String, String, String, Attributes)]][[Javadoc:#characters(String)|#characters(String)]][[Javadoc:#endElement(String, String, String)|#endElement(String, String, String)]]
+----
+===characters(String)===
+
+&lt;tt&gt;public characters(java.lang.String data)&lt;/tt&gt;
+:Write a string of character data, with XML escaping. This is a convenience method that takes an XML String, converts it to a character array, then invokes {@link #characters(char[], int, int)}. 
+
+
+'''Param:'''
+:&lt;tt&gt;data&lt;/tt&gt; - The character data.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the string, or if a handler further down the filter chain raises an exception.
+'''See also:'''
+[[Javadoc:data
+            The character data.|data
+            The character data]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the string, or if a handler
+                further down the filter chain raises an exception.|SAXException
+                If there is an error writing the string, or if a handler
+                further down the filter chain raises an exception]][[Javadoc:#characters(char[], int, int)|#characters(char[], int, int)]]
+----
+===forceNSDecls()===
+
+&lt;tt&gt;private forceNSDecls()&lt;/tt&gt;
+:Force all Namespaces to be declared. This method is used on the root element to ensure that the predeclared Namespaces all appear.
+
+
+'''See also:'''
+
+----
+===doPrefix(String, String, boolean)===
+
+&lt;tt&gt;private doPrefix(java.lang.String uri, java.lang.String qName, boolean isElement)&lt;/tt&gt;
+:Determine the prefix for an element or attribute name. TODO: this method probably needs some cleanup.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI.
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The qualified name (optional); this will be used to indicate the preferred prefix if none is currently bound.
+'''Param:'''
+:&lt;tt&gt;isElement&lt;/tt&gt; - true if this is an element name, false if it is an attribute name (which cannot use the default Namespace).
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI.|uri
+            The Namespace URI]][[Javadoc:qName
+            The qualified name (optional); this will be used to indicate
+            the preferred prefix if none is currently bound.|qName
+            The qualified name (optional); this will be used to indicate
+            the preferred prefix if none is currently bound]][[Javadoc:isElement
+            true if this is an element name, false if it is an attribute
+            name (which cannot use the default Namespace).|isElement
+            true if this is an element name, false if it is an attribute
+            name (which cannot use the default Namespace)]]
+----
+===write(char)===
+
+&lt;tt&gt;private write(char c)&lt;/tt&gt;
+:Write a raw character.
+
+
+'''Param:'''
+:&lt;tt&gt;c&lt;/tt&gt; - The character to write.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the character, this method will throw an IOException wrapped in a SAXException.
+'''See also:'''
+[[Javadoc:c
+            The character to write.|c
+            The character to write]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the character, this method
+                will throw an IOException wrapped in a SAXException.|SAXException
+                If there is an error writing the character, this method
+                will throw an IOException wrapped in a SAXException]]
+----
+===write(String)===
+
+&lt;tt&gt;private write(java.lang.String s)&lt;/tt&gt;
+:Write a raw string.
+
+
+'''Param:'''
+:s
+
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - If there is an error writing the string, this method will throw an IOException wrapped in a SAXException
+'''See also:'''
+[[Javadoc:s|s]][[Javadoc:org.xml.sax.SAXException
+                If there is an error writing the string, this method will
+                throw an IOException wrapped in a SAXException|SAXException
+                If there is an error writing the string, this method will
+                throw an IOException wrapped in a SAXException]]
+----
+===writeAttributes(Attributes)===
+
+&lt;tt&gt;private writeAttributes(org.xml.sax.Attributes atts)&lt;/tt&gt;
+:Write out an attribute list, escaping values. The names will have prefixes added to them.
+
+
+'''Param:'''
+:&lt;tt&gt;atts&lt;/tt&gt; - The attribute list to write.
+'''Exception:'''
+:&lt;tt&gt;org.xml.SAXException&lt;/tt&gt; - If there is an error writing the attribute list, this method will throw an IOException wrapped in a SAXException.
+'''See also:'''
+[[Javadoc:atts
+            The attribute list to write.|atts
+            The attribute list to write]][[Javadoc:org.xml.SAXException
+                If there is an error writing the attribute list, this
+                method will throw an IOException wrapped in a
+                SAXException.|SAXException
+                If there is an error writing the attribute list, this
+                method will throw an IOException wrapped in a
+                SAXException]]
+----
+===booleanAttribute(String, String, String)===
+
+&lt;tt&gt;private booleanAttribute(java.lang.String localName, java.lang.String qName, java.lang.String value)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===writeEsc(char, int, int, boolean)===
+
+&lt;tt&gt;private writeEsc(char ch, int start, int length, boolean isAttVal)&lt;/tt&gt;
+:Write an array of data characters with escaping.
+
+
+'''Param:'''
+:&lt;tt&gt;ch&lt;/tt&gt; - The array of characters.
+'''Param:'''
+:&lt;tt&gt;start&lt;/tt&gt; - The starting position.
+'''Param:'''
+:&lt;tt&gt;length&lt;/tt&gt; - The number of characters to use.
+'''Param:'''
+:&lt;tt&gt;isAttVal&lt;/tt&gt; - true if this is an attribute value literal.
+'''Exception:'''
+:&lt;tt&gt;org.xml.SAXException&lt;/tt&gt; - If there is an error writing the characters, this method will throw an IOException wrapped in a SAXException.
+'''See also:'''
+[[Javadoc:ch
+            The array of characters.|ch
+            The array of characters]][[Javadoc:start
+            The starting position.|start
+            The starting position]][[Javadoc:length
+            The number of characters to use.|length
+            The number of characters to use]][[Javadoc:isAttVal
+            true if this is an attribute value literal.|isAttVal
+            true if this is an attribute value literal]][[Javadoc:org.xml.SAXException
+                If there is an error writing the characters, this method
+                will throw an IOException wrapped in a SAXException.|SAXException
+                If there is an error writing the characters, this method
+                will throw an IOException wrapped in a SAXException]]
+----
+===writeNSDecls()===
+
+&lt;tt&gt;private writeNSDecls()&lt;/tt&gt;
+:Write out the list of Namespace declarations.
+
+
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - This method will throw an IOException wrapped in a SAXException if there is an error writing the Namespace declarations.
+'''See also:'''
+[[Javadoc:org.xml.sax.SAXException
+                This method will throw an IOException wrapped in a
+                SAXException if there is an error writing the Namespace
+                declarations.|SAXException
+                This method will throw an IOException wrapped in a
+                SAXException if there is an error writing the Namespace
+                declarations]]
+----
+===writeName(String, String, String, boolean)===
+
+&lt;tt&gt;private writeName(java.lang.String uri, java.lang.String localName, java.lang.String qName, boolean isElement)&lt;/tt&gt;
+:Write an element or attribute name.
+
+
+'''Param:'''
+:&lt;tt&gt;uri&lt;/tt&gt; - The Namespace URI.
+'''Param:'''
+:&lt;tt&gt;localName&lt;/tt&gt; - The local name.
+'''Param:'''
+:&lt;tt&gt;qName&lt;/tt&gt; - The prefixed name, if available, or the empty string.
+'''Param:'''
+:&lt;tt&gt;isElement&lt;/tt&gt; - true if this is an element name, false if it is an attribute name.
+'''Exception:'''
+:&lt;tt&gt;org.xml.sax.SAXException&lt;/tt&gt; - This method will throw an IOException wrapped in a SAXException if there is an error writing the name.
+'''See also:'''
+[[Javadoc:uri
+            The Namespace URI.|uri
+            The Namespace URI]][[Javadoc:localName
+            The local name.|localName
+            The local name]][[Javadoc:qName
+            The prefixed name, if available, or the empty string.|qName
+            The prefixed name, if available, or the empty string]][[Javadoc:isElement
+            true if this is an element name, false if it is an attribute
+            name.|isElement
+            true if this is an element name, false if it is an attribute
+            name]][[Javadoc:org.xml.sax.SAXException
+                This method will throw an IOException wrapped in a
+                SAXException if there is an error writing the name.|SAXException
+                This method will throw an IOException wrapped in a
+                SAXException if there is an error writing the name]]
+----
+===comment(char, int, int)===
+
+&lt;tt&gt;public comment(char ch, int start, int length)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===endCDATA()===
+
+&lt;tt&gt;public endCDATA()&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===endDTD()===
+
+&lt;tt&gt;public endDTD()&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===endEntity(String)===
+
+&lt;tt&gt;public endEntity(java.lang.String name)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===startCDATA()===
+
+&lt;tt&gt;public startCDATA()&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===startDTD(String, String, String)===
+
+&lt;tt&gt;public startDTD(java.lang.String name, java.lang.String publicid, java.lang.String systemid)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===startEntity(String)===
+
+&lt;tt&gt;public startEntity(java.lang.String name)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===getOutputProperty(String)===
+
+&lt;tt&gt;public getOutputProperty(java.lang.String key)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+----
+===setOutputProperty(String, String)===
+
+&lt;tt&gt;public setOutputProperty(java.lang.String key, java.lang.String value)&lt;/tt&gt;
+:
+
+
+'''See also:'''
+
+[[Category:Java_Class|X]]
+[[Category:Javadoc_Documentation|X]]
+</content><hash>dba98683d7a9fc6eb61754317ee2382c</hash><time>1290265072608</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.WikiDoclet</title><content>The WikiDoclet is used by Javadoc as a custom Doclet. It creates Wikimedia Pages from Javadoc output and places them in a XML File specified by parameter "-d" and "-f" while calling Javadoc. The WikiD ... 
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.WikiDoclet=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet|ch.zhaw.wikidoclet]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; WikiDoclet WikiDoclet
+:&lt;tt&gt;extends com.sun.javadoc.Doclet&lt;/tt&gt;
+
+
+The WikiDoclet is used by Javadoc as a custom Doclet. It creates Wikimedia Pages from Javadoc output and places them in a XML File specified by parameter "-d" and "-f" while calling Javadoc. The WikiDoclet Class has a dependency to the org.slf4j Package.
+
+'''Author:'''
+:Rolf Koch (kochrol@students.zhaw.ch)
+
+'''Version:'''
+:1.0
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private static Logger [[Javadoc:ch.zhaw.wikidoclet.WikiDoclet#logger|logger]]&lt;/tt&gt;||Logger Variable
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#WikiDoclet|WikiDoclet]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.WikiDoclet#start(RootDoc)|start]](com.sun.javadoc.RootDoc root)&lt;/tt&gt;
+:Standard doclet entry point. This method is called by Javadoc
+
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.WikiDoclet#optionLength(String)|optionLength]](java.lang.String option)&lt;/tt&gt;
+:Returns the valid amound of parameters to a option in the options string. This method is called by Javadoc to validate custom parameters.
+
+|}
+
+==Field Details==
+===logger===
+
+&lt;tt&gt;private static Logger logger&lt;/tt&gt;
+
+:Logger Variable
+
+
+==Constructor Details==
+===WikiDoclet()===
+
+&lt;tt&gt;public WikiDoclet()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===start(RootDoc)===
+
+&lt;tt&gt;public static start(com.sun.javadoc.RootDoc root)&lt;/tt&gt;
+:Standard doclet entry point. This method is called by Javadoc
+
+
+'''Param:'''
+:&lt;tt&gt;root&lt;/tt&gt; - A RootDoc object usually created by Javadoc utility
+'''Return:'''
+:True or False if the Doclet was successfull.
+
+
+----
+===optionLength(String)===
+
+&lt;tt&gt;public static optionLength(java.lang.String option)&lt;/tt&gt;
+:Returns the valid amound of parameters to a option in the options string. This method is called by Javadoc to validate custom parameters.
+
+
+'''Param:'''
+:&lt;tt&gt;option&lt;/tt&gt; - Option key string eg: "-d"
+'''Return:'''
+:Amount of parameters as int
+
+
+[[Category:Java_Class|W]]
+[[Category:Javadoc_Documentation|W]]
+</content><hash>e0907d618a6f8cc6df651b672d831a9</hash><time>1290265072608</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.PageWriter</title><content>The PageWriter class is used to write the Pages to an XML File. The Class uses the Properties loaded in the WikiDocletCfg to find the location to write the File to.
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.PageWriter=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet|ch.zhaw.wikidoclet]]
+
+==Detailed Description==
+
+&lt;tt&gt;&lt;/tt&gt; PageWriter PageWriter
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+The PageWriter class is used to write the Pages to an XML File. The Class uses the Properties loaded in the WikiDocletCfg to find the location to write the File to.
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private static Logger [[Javadoc:ch.zhaw.wikidoclet.PageWriter#logger|logger]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt; [[Javadoc:ch.zhaw.wikidoclet#PageWriter|PageWriter]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.PageWriter#writePagesToXml(List, String)|writePagesToXml]](java.util.List pageList, java.lang.String XmlFilePath)&lt;/tt&gt;
+:Write a List of Pages to the XML File
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.PageWriter#stripNonValidXMLCharacters(String)|stripNonValidXMLCharacters]](java.lang.String in)&lt;/tt&gt;
+:This method ensures that the output String has only valid XML unicode characters as specified by the XML 1.0 standard. For reference, please see [http://www.w3.org/TR/2000/REC-xml-20001006#NT-Char htt ... 
+
+|}
+
+==Field Details==
+===logger===
+
+&lt;tt&gt;private static Logger logger&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===PageWriter()===
+
+&lt;tt&gt; PageWriter()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===writePagesToXml(List, String)===
+
+&lt;tt&gt;public writePagesToXml(java.util.List pageList, java.lang.String XmlFilePath)&lt;/tt&gt;
+:Write a List of Pages to the XML File
+
+
+'''Param:'''
+:&lt;tt&gt;pageList&lt;/tt&gt; - A List&lt;Page&gt; Object
+'''Param:'''
+:&lt;tt&gt;XmlFilePath&lt;/tt&gt; - Full path to an XML File
+
+----
+===stripNonValidXMLCharacters(String)===
+
+&lt;tt&gt;public stripNonValidXMLCharacters(java.lang.String in)&lt;/tt&gt;
+:This method ensures that the output String has only valid XML unicode characters as specified by the XML 1.0 standard. For reference, please see [http://www.w3.org/TR/2000/REC-xml-20001006#NT-Char htt ... 
+
+
+'''Param:'''
+:&lt;tt&gt;in&lt;/tt&gt; - The String whose non-valid characters we want to remove.
+'''Return:'''
+:The in String, stripped of non-valid characters.
+
+
+[[Category:Java_Class|P]]
+[[Category:Javadoc_Documentation|P]]
+</content><hash>3967e051f93198da97e67d419756b9</hash><time>1290265072618</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc</title><content>The AnalyseRootDoc Class is used to analyse a RootDoc Object from Javadoc. It iterates over all Packages and Classes in the RootDoc Object and creates a PackagePage for each PackageDoc Element and a C ... 
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.AnalyseRootDoc=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet|ch.zhaw.wikidoclet]]
+
+==Detailed Description==
+
+&lt;tt&gt;&lt;/tt&gt; AnalyseRootDoc AnalyseRootDoc
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+The AnalyseRootDoc Class is used to analyse a RootDoc Object from Javadoc. It iterates over all Packages and Classes in the RootDoc Object and creates a PackagePage for each PackageDoc Element and a ClassPage for each ClassDoc. The iteration is happening Recursively
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private List [[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc#pageList|pageList]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static final Logger [[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc#logger|logger]]&lt;/tt&gt;||Logger Variable
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet#AnalyseRootDoc|AnalyseRootDoc]](com.sun.javadoc.RootDoc rootDoc)&lt;/tt&gt;||The Default Constructor creates the PageSet and stores the RootDoc Object locally
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc#analysePackageDocSet(PackageDoc)|analysePackageDocSet]](com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;
+:Analyses an Array of PackageDoc Elements. For each PackageDoc Element a PackagePage is created and added to the PageSet HashMap. If a Class is found it will be analysed by AnalyseClassDocSet @see #Ana ... 
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc#analyseClassDocSet(ClassDoc)|analyseClassDocSet]](com.sun.javadoc.ClassDoc cs)&lt;/tt&gt;
+:Analyses an Array of ClassDoc Elements. For each ClassDoc Element a ClassPage is created and added to the PageSet HashMap. If a Nested Class is found it will be analysed again by AnalyseClassDocSet
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc#getPageSet()|getPageSet]]()&lt;/tt&gt;
+:Getter for the PageSet Hashmap
+
+|}
+
+==Field Details==
+===pageList===
+
+&lt;tt&gt;private List pageList&lt;/tt&gt;
+
+:
+
+----
+===logger===
+
+&lt;tt&gt;private static final Logger logger&lt;/tt&gt;
+
+:Logger Variable
+
+
+==Constructor Details==
+===AnalyseRootDoc(RootDoc)===
+
+&lt;tt&gt;public AnalyseRootDoc(com.sun.javadoc.RootDoc rootDoc)&lt;/tt&gt;
+:The Default Constructor creates the PageSet and stores the RootDoc Object locally
+
+
+'''Param:'''
+:&lt;tt&gt;r&lt;/tt&gt; - RootDoc from Javadoc
+
+==Method Details==
+===analysePackageDocSet(PackageDoc)===
+
+&lt;tt&gt;public analysePackageDocSet(com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;
+:Analyses an Array of PackageDoc Elements. For each PackageDoc Element a PackagePage is created and added to the PageSet HashMap. If a Class is found it will be analysed by AnalyseClassDocSet @see #Ana ... 
+
+
+'''Param:'''
+:&lt;tt&gt;pkg&lt;/tt&gt; - PackageDoc Array
+
+----
+===analyseClassDocSet(ClassDoc)===
+
+&lt;tt&gt;public analyseClassDocSet(com.sun.javadoc.ClassDoc cs)&lt;/tt&gt;
+:Analyses an Array of ClassDoc Elements. For each ClassDoc Element a ClassPage is created and added to the PageSet HashMap. If a Nested Class is found it will be analysed again by AnalyseClassDocSet
+
+
+'''Param:'''
+:&lt;tt&gt;cs&lt;/tt&gt; - ClassDoc Array
+
+----
+===getPageSet()===
+
+&lt;tt&gt;public getPageSet()&lt;/tt&gt;
+:Getter for the PageSet Hashmap
+
+
+'''Return:'''
+:PageSet Hashmap
+
+
+[[Category:Java_Class|A]]
+[[Category:Javadoc_Documentation|A]]
+</content><hash>7b34abf230253289034c538a96f1bf3</hash><time>1290265072618</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater</title><content>
+__TOC__
+
+=Package: ch.zhaw.wikidoclet.formater=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:com|com]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.wikidoclet|wikidoclet]]
+****[[Javadoc:ch.zhaw.wikidoclet.formater|formater]]
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage|FormatPage]]||
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable|FormatPage.WikiTable]]||Inner Class to create a simple dynamic Wiki Table with a Header with a configurable color and dynamic content
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage|FormatPackagePage]]||
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatIndexPage|FormatIndexPage]]||
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage|FormatClassPage]]||
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatCategoryPage|FormatCategoryPage]]||
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>5c4dee998c3e366c813422c8d02790bd</hash><time>1290265072618</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatPage</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public abstract&lt;/tt&gt; FormatPage FormatPage
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+
+
+
+==Nested Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable|FormatPage.WikiTable]]||Inner Class to create a simple dynamic Wiki Table with a Header with a configurable color and dynamic content
+|}
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;static final String [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#NEWLINE|NEWLINE]]&lt;/tt&gt;||Default Newline Charakter to be used
+|-
+| &lt;tt&gt;static final String [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#POINTS|POINTS]]&lt;/tt&gt;||Default Marker for cutted text to be used
+|-
+| &lt;tt&gt;static String [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#DELIMITER|DELIMITER]]&lt;/tt&gt;||Standard Index Page String Delimiter
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater#FormatPage|FormatPage]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createWikiLink(StringBuilder, StringBuilder)|createWikiLink]](java.lang.StringBuilder Link, java.lang.StringBuilder Linktext)&lt;/tt&gt;
+:Creates a Wiki Link with the schema: [[WIKI_NAMESPACE:Link|Linktext]
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createWikiLink(StringBuilder)|createWikiLink]](java.lang.StringBuilder Link)&lt;/tt&gt;
+:Creates a Wiki Link with the same Link and Text with the schema: [[WIKI_NAMESPACE:Link|Link]]
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createComment(StringBuilder)|createComment]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Wrapper Method for all Comment Strings to filter the Text before Posting it to the Page
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterParagrafTags(StringBuilder)|filterParagrafTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createParagraph(StringBuilder)|createParagraph]](java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterBoldTags(StringBuilder)|filterBoldTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterItalicTags(StringBuilder)|filterItalicTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createItalic(StringBuilder)|createItalic]](java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterCodeTags(StringBuilder)|filterCodeTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createCode(StringBuilder)|createCode]](java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#restoreCodeTags(StringBuilder)|restoreCodeTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#restoreCode(StringBuilder)|restoreCode]](java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterUlTags(StringBuilder)|filterUlTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterliTags(StringBuilder)|filterliTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createListItem(StringBuilder)|createListItem]](java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#filterHtmlLinks(StringBuilder)|filterHtmlLinks]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createExternalWikiLink(StringBuilder)|createExternalWikiLink]](java.lang.StringBuilder Link)&lt;/tt&gt;
+:Creates a external Wiki Link
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#replaceHtmlTags(StringBuilder)|replaceHtmlTags]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Replaces all Tags in JavaCode by nothing
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#createSmallComment(StringBuilder)|createSmallComment]](java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Wrapper Method to cut down the Comment Strings to 300 Chars length maximal. If there is a .\n or \n\n within the first 200 Chars or a \n within the first 300 chars, it will be cutted at this location ... 
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#makeClassDocList(ClassDoc)|makeClassDocList]](com.sun.javadoc.ClassDoc classes)&lt;/tt&gt;
+:Creates a new Wiki List containing the class descriptions supplied with three rows called Properties, Name and Description
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#h1(StringBuilder)|h1]](java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h1 (=Title=)
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#h2(StringBuilder)|h2]](java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h2 (==Title==)
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#h3(StringBuilder)|h3]](java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h3 (===Title===)
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#code(StringBuilder)|code]](java.lang.StringBuilder code)&lt;/tt&gt;
+:Code style Text (Code text
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#indent(StringBuilder)|indent]](java.lang.StringBuilder text)&lt;/tt&gt;
+:Indent Text with Wiki Syntax. ( : text ) This Method will also do the same for all additional paragraphs in the text
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#bold(StringBuilder)|bold]](java.lang.StringBuilder text)&lt;/tt&gt;
+:Mark Text as Bold ('''Text''')
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#simpleText(StringBuilder)|simpleText]](java.lang.StringBuilder text)&lt;/tt&gt;
+:Filter Text as a simple one line text. Removes all \n and replaces all multiple spaces with single spaces
+
+|}
+
+==Field Details==
+===NEWLINE===
+
+&lt;tt&gt;static final String NEWLINE&lt;/tt&gt;
+
+:Default Newline Charakter to be used
+
+----
+===POINTS===
+
+&lt;tt&gt;static final String POINTS&lt;/tt&gt;
+
+:Default Marker for cutted text to be used
+
+----
+===DELIMITER===
+
+&lt;tt&gt;static String DELIMITER&lt;/tt&gt;
+
+:Standard Index Page String Delimiter
+
+
+==Constructor Details==
+===FormatPage()===
+
+&lt;tt&gt;public FormatPage()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===createWikiLink(StringBuilder, StringBuilder)===
+
+&lt;tt&gt;protected createWikiLink(java.lang.StringBuilder Link, java.lang.StringBuilder Linktext)&lt;/tt&gt;
+:Creates a Wiki Link with the schema: [[WIKI_NAMESPACE:Link|Linktext]
+
+
+'''Param:'''
+:&lt;tt&gt;Link&lt;/tt&gt; - The whole Page Name or Link to be used in this Link
+'''Param:'''
+:&lt;tt&gt;Linktext&lt;/tt&gt; - The Text to be shown on the Website as Link
+'''Return:'''
+:Link String in Wiki Syntax
+
+
+----
+===createWikiLink(StringBuilder)===
+
+&lt;tt&gt;protected createWikiLink(java.lang.StringBuilder Link)&lt;/tt&gt;
+:Creates a Wiki Link with the same Link and Text with the schema: [[WIKI_NAMESPACE:Link|Link]]
+
+
+'''Param:'''
+:&lt;tt&gt;Link&lt;/tt&gt; - The whole PageName or Link to be used in this Link for Link and Text
+'''Return:'''
+:Link String in Wiki Syntax
+
+
+----
+===createComment(StringBuilder)===
+
+&lt;tt&gt;protected createComment(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Wrapper Method for all Comment Strings to filter the Text before Posting it to the Page
+
+
+'''Param:'''
+:&lt;tt&gt;rawComment&lt;/tt&gt; - The whole Comment to be printed
+'''Return:'''
+:Filtered Comment String
+
+
+----
+===filterParagrafTags(StringBuilder)===
+
+&lt;tt&gt;protected filterParagrafTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===createParagraph(StringBuilder)===
+
+&lt;tt&gt;private createParagraph(java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+
+
+----
+===filterBoldTags(StringBuilder)===
+
+&lt;tt&gt;protected filterBoldTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===filterItalicTags(StringBuilder)===
+
+&lt;tt&gt;protected filterItalicTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===createItalic(StringBuilder)===
+
+&lt;tt&gt;private createItalic(java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+
+
+----
+===filterCodeTags(StringBuilder)===
+
+&lt;tt&gt;protected filterCodeTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===createCode(StringBuilder)===
+
+&lt;tt&gt;private createCode(java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+
+
+----
+===restoreCodeTags(StringBuilder)===
+
+&lt;tt&gt;protected restoreCodeTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===restoreCode(StringBuilder)===
+
+&lt;tt&gt;private restoreCode(java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+
+
+----
+===filterUlTags(StringBuilder)===
+
+&lt;tt&gt;protected filterUlTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===filterliTags(StringBuilder)===
+
+&lt;tt&gt;protected filterliTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===createListItem(StringBuilder)===
+
+&lt;tt&gt;private createListItem(java.lang.StringBuilder stringBuilder)&lt;/tt&gt;
+:
+
+
+
+----
+===filterHtmlLinks(StringBuilder)===
+
+&lt;tt&gt;protected filterHtmlLinks(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:
+
+
+
+----
+===createExternalWikiLink(StringBuilder)===
+
+&lt;tt&gt;protected createExternalWikiLink(java.lang.StringBuilder Link)&lt;/tt&gt;
+:Creates a external Wiki Link
+
+
+'''Param:'''
+:externalLink
+
+'''Return:'''
+:External Link String in Wiki Syntax
+
+
+----
+===replaceHtmlTags(StringBuilder)===
+
+&lt;tt&gt;protected replaceHtmlTags(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Replaces all Tags in JavaCode by nothing
+
+
+'''Param:'''
+:rawComment
+
+'''Return:'''
+:
+
+
+----
+===createSmallComment(StringBuilder)===
+
+&lt;tt&gt;protected createSmallComment(java.lang.StringBuilder rawComment)&lt;/tt&gt;
+:Wrapper Method to cut down the Comment Strings to 300 Chars length maximal. If there is a .\n or \n\n within the first 200 Chars or a \n within the first 300 chars, it will be cutted at this location ... 
+
+
+'''Param:'''
+:&lt;tt&gt;rawComment&lt;/tt&gt; - The whole Comment to be printed
+'''Return:'''
+:Cutted Comment String with 300 chars lengt maximal
+
+
+----
+===makeClassDocList(ClassDoc)===
+
+&lt;tt&gt;protected makeClassDocList(com.sun.javadoc.ClassDoc classes)&lt;/tt&gt;
+:Creates a new Wiki List containing the class descriptions supplied with three rows called Properties, Name and Description
+
+
+'''Param:'''
+:&lt;tt&gt;Classdoc&lt;/tt&gt; - Description Array
+'''Return:'''
+:Wiki Class Table String
+
+
+----
+===h1(StringBuilder)===
+
+&lt;tt&gt;protected h1(java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h1 (=Title=)
+
+
+'''Param:'''
+:&lt;tt&gt;title&lt;/tt&gt; - Title String
+'''Return:'''
+:H1 Title String in Wiki Syntax
+
+
+----
+===h2(StringBuilder)===
+
+&lt;tt&gt;protected h2(java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h2 (==Title==)
+
+
+'''Param:'''
+:&lt;tt&gt;title&lt;/tt&gt; - Title String
+'''Return:'''
+:H2 Title String in Wiki Syntax
+
+
+----
+===h3(StringBuilder)===
+
+&lt;tt&gt;protected h3(java.lang.StringBuilder title)&lt;/tt&gt;
+:Create a Title h3 (===Title===)
+
+
+'''Param:'''
+:&lt;tt&gt;title&lt;/tt&gt; - Title String
+'''Return:'''
+:H3 Title String in Wiki Syntax
+
+
+----
+===code(StringBuilder)===
+
+&lt;tt&gt;protected code(java.lang.StringBuilder code)&lt;/tt&gt;
+:Code style Text (Code text
+
+
+'''Param:'''
+:&lt;tt&gt;code&lt;/tt&gt; - Text to be put in &lt;tt&gt; tags
+'''Return:'''
+:Code String in Wiki Syntax
+
+
+----
+===indent(StringBuilder)===
+
+&lt;tt&gt;protected indent(java.lang.StringBuilder text)&lt;/tt&gt;
+:Indent Text with Wiki Syntax. ( : text ) This Method will also do the same for all additional paragraphs in the text
+
+
+'''Param:'''
+:&lt;tt&gt;text&lt;/tt&gt; - Text to indent
+'''Return:'''
+:Code Text String in Wiki Syntax
+
+
+----
+===bold(StringBuilder)===
+
+&lt;tt&gt;protected bold(java.lang.StringBuilder text)&lt;/tt&gt;
+:Mark Text as Bold ('''Text''')
+
+
+'''Param:'''
+:&lt;tt&gt;text&lt;/tt&gt; - Text to mark Bold
+'''Return:'''
+:Bold Text String in Wiki Syntax
+
+
+----
+===simpleText(StringBuilder)===
+
+&lt;tt&gt;protected simpleText(java.lang.StringBuilder text)&lt;/tt&gt;
+:Filter Text as a simple one line text. Removes all \n and replaces all multiple spaces with single spaces
+
+
+'''Param:'''
+:&lt;tt&gt;text&lt;/tt&gt; - Text to be filtered
+'''Return:'''
+:Simple Text String
+
+
+[[Category:Java_Class|F]]
+[[Category:Javadoc_Documentation|F]]
+</content><hash>7ecfda33524ef0d913538ca2f12ec580</hash><time>1290265072628</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable</title><content>Inner Class to create a simple dynamic Wiki Table with a Header with a configurable color and dynamic content
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; FormatPage.WikiTable WikiTable
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+Inner Class to create a simple dynamic Wiki Table with a Header with a configurable color and dynamic content
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt; String [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#names|names]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt; int [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#fieldcount|fieldcount]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt; String [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#titlecolor|titlecolor]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt; ArrayList [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#elements|elements]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#WikiTable|FormatPage.WikiTable]](java.lang.String fieldnames)&lt;/tt&gt;||Constructor with only the Fieldnames Array as Parameter sets the titlebackgroundcolor to #CCCCFF by default. This constructor can be used if no customised title background color is required
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage#WikiTable|FormatPage.WikiTable]](java.lang.String fieldnames, java.lang.String titlebackgroundcolor)&lt;/tt&gt;||Constructor to define fieldnames and titlebackgroundcolor
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#add(String)|add]](java.lang.String content)&lt;/tt&gt;
+:Add a new row
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable#print()|print]]()&lt;/tt&gt;
+:Print the whole Wiki table code as string
+
+|}
+
+==Field Details==
+===names===
+
+&lt;tt&gt; String names&lt;/tt&gt;
+
+:
+
+----
+===fieldcount===
+
+&lt;tt&gt; int fieldcount&lt;/tt&gt;
+
+:
+
+----
+===titlecolor===
+
+&lt;tt&gt; String titlecolor&lt;/tt&gt;
+
+:
+
+----
+===elements===
+
+&lt;tt&gt; ArrayList elements&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===FormatPage.WikiTable(String)===
+
+&lt;tt&gt;public FormatPage.WikiTable(java.lang.String fieldnames)&lt;/tt&gt;
+:Constructor with only the Fieldnames Array as Parameter sets the titlebackgroundcolor to #CCCCFF by default. This constructor can be used if no customised title background color is required
+
+
+'''Param:'''
+:&lt;tt&gt;fieldnames&lt;/tt&gt; - A String Array containing the Title Fields. This Array also defines the amount of collumns
+
+----
+===FormatPage.WikiTable(String, String)===
+
+&lt;tt&gt;public FormatPage.WikiTable(java.lang.String fieldnames, java.lang.String titlebackgroundcolor)&lt;/tt&gt;
+:Constructor to define fieldnames and titlebackgroundcolor
+
+
+'''Param:'''
+:&lt;tt&gt;fieldnames&lt;/tt&gt; - A String Array containing the Title Fields. This Array also defines the amount of collumns
+'''Param:'''
+:&lt;tt&gt;titlebackgroundcolor&lt;/tt&gt; - A HTML Color for the Title row Background. {@link http ://www.w3.org/TR/html4/types.html#h-6.5} @
+
+==Method Details==
+===add(String)===
+
+&lt;tt&gt;public add(java.lang.String content)&lt;/tt&gt;
+:Add a new row
+
+
+'''Param:'''
+:&lt;tt&gt;content&lt;/tt&gt; - A String array containing the Content of a table row. The length of the Array must be the same as the length of the fieldnames array used in the constructor
+
+----
+===print()===
+
+&lt;tt&gt;public print()&lt;/tt&gt;
+:Print the whole Wiki table code as string
+
+
+'''Return:'''
+:Wiki table string
+
+
+[[Category:Java_Class|W]]
+[[Category:Javadoc_Documentation|W]]
+</content><hash>c66367d3ecb2c0419e65b11313b1a8fc</hash><time>1290265072638</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatPackagePage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; FormatPackagePage FormatPackagePage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.formater.FormatPage&lt;/tt&gt;
+
+
+
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private PackageDoc [[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#pkg|pkg]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater#FormatPackagePage|FormatPackagePage]](com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printHead()|printHead]]()&lt;/tt&gt;
+:Prints the Head of the Wiki Page (Short Description + TOC + Package Title)
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printDetailedDescription()|printDetailedDescription]]()&lt;/tt&gt;
+:Prints the detailed description including all Tags and See Tags
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printPackageTree()|printPackageTree]]()&lt;/tt&gt;
+:Prints the Package Tree part of the Page
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printInterfaceList()|printInterfaceList]]()&lt;/tt&gt;
+:Prints the Interface List
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printOrdinaryClassList()|printOrdinaryClassList]]()&lt;/tt&gt;
+:Prints the ordinary Class List
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printEnumList()|printEnumList]]()&lt;/tt&gt;
+:Prints the Enum List
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printErrorList()|printErrorList]]()&lt;/tt&gt;
+:prints the Errors and Exceptions List
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printSubPackages()|printSubPackages]]()&lt;/tt&gt;
+:prints the subpackage List
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage#printFooder()|printFooder]]()&lt;/tt&gt;
+:prints the page fooder including all Category tags
+
+|}
+
+==Field Details==
+===pkg===
+
+&lt;tt&gt;private PackageDoc pkg&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===FormatPackagePage(PackageDoc)===
+
+&lt;tt&gt;public FormatPackagePage(com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===printHead()===
+
+&lt;tt&gt;public printHead()&lt;/tt&gt;
+:Prints the Head of the Wiki Page (Short Description + TOC + Package Title)
+
+
+'''Return:'''
+:Package Page Title String
+
+
+----
+===printDetailedDescription()===
+
+&lt;tt&gt;public printDetailedDescription()&lt;/tt&gt;
+:Prints the detailed description including all Tags and See Tags
+
+
+'''Return:'''
+:Detailed Description String
+
+
+----
+===printPackageTree()===
+
+&lt;tt&gt;public printPackageTree()&lt;/tt&gt;
+:Prints the Package Tree part of the Page
+
+
+'''Return:'''
+:Package Tree String
+
+
+----
+===printInterfaceList()===
+
+&lt;tt&gt;public printInterfaceList()&lt;/tt&gt;
+:Prints the Interface List
+
+
+'''Return:'''
+:Interface List String
+
+
+----
+===printOrdinaryClassList()===
+
+&lt;tt&gt;public printOrdinaryClassList()&lt;/tt&gt;
+:Prints the ordinary Class List
+
+
+'''Return:'''
+:Class List String
+
+
+----
+===printEnumList()===
+
+&lt;tt&gt;public printEnumList()&lt;/tt&gt;
+:Prints the Enum List
+
+
+'''Return:'''
+:Enum List String
+
+
+----
+===printErrorList()===
+
+&lt;tt&gt;public printErrorList()&lt;/tt&gt;
+:prints the Errors and Exceptions List
+
+
+'''Return:'''
+:Error and Exceptions List String
+
+
+----
+===printSubPackages()===
+
+&lt;tt&gt;public printSubPackages()&lt;/tt&gt;
+:prints the subpackage List
+
+
+'''Return:'''
+:subpackage List String
+
+
+----
+===printFooder()===
+
+&lt;tt&gt;public printFooder()&lt;/tt&gt;
+:prints the page fooder including all Category tags
+
+
+'''Return:'''
+:fooder String
+
+
+[[Category:Java_Class|F]]
+[[Category:Javadoc_Documentation|F]]
+</content><hash>1d5a973b5a43319ad98e7fd1b525703f</hash><time>1290265072638</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatIndexPage</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatIndexPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; FormatIndexPage FormatIndexPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.formater.FormatPage&lt;/tt&gt;
+
+
+
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater#FormatIndexPage|FormatIndexPage]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatIndexPage#createIndex(List)|createIndex]](java.util.List pageList)&lt;/tt&gt;
+:
+
+|}
+
+==Constructor Details==
+===FormatIndexPage()===
+
+&lt;tt&gt;public FormatIndexPage()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===createIndex(List)===
+
+&lt;tt&gt;public createIndex(java.util.List pageList)&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|F]]
+[[Category:Javadoc_Documentation|F]]
+</content><hash>5086d659053ad13d35a83318ad63788</hash><time>1290265072638</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatClassPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; FormatClassPage FormatClassPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.formater.FormatPage&lt;/tt&gt;
+
+
+
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private ClassDoc [[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#cs|cs]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater#FormatClassPage|FormatClassPage]](com.sun.javadoc.ClassDoc cs)&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printHead()|printHead]]()&lt;/tt&gt;
+:Prints the Head of the Wiki Class Page (Short Description + TOC + Class Title)
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printPackage()|printPackage]]()&lt;/tt&gt;
+:Prints the Package Section with the Package Link
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printDetailedDescription()|printDetailedDescription]]()&lt;/tt&gt;
+:Prints the Detailed Description Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printNestedClassList()|printNestedClassList]]()&lt;/tt&gt;
+:Prints the Nested class List Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printFieldSummary()|printFieldSummary]]()&lt;/tt&gt;
+:Prints the Field Summary Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printConstructorSummary()|printConstructorSummary]]()&lt;/tt&gt;
+:Prints the Constructor Summary Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printMethodSummary()|printMethodSummary]]()&lt;/tt&gt;
+:Prints the Method Summary Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printFieldDetail()|printFieldDetail]]()&lt;/tt&gt;
+:Prints the Field Details Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printConstructorDetail()|printConstructorDetail]]()&lt;/tt&gt;
+:Prints the Constructor Details Section
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printMethodDetails()|printMethodDetails]]()&lt;/tt&gt;
+:Prints the Method Details Section
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#createMethodTags(Tag)|createMethodTags]](com.sun.javadoc.Tag tags)&lt;/tt&gt;
+:Creates the Method Tags List as a String
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#createMethodHead(ExecutableMemberDoc)|createMethodHead]](com.sun.javadoc.ExecutableMemberDoc m)&lt;/tt&gt;
+:Creates the Method Head with all Parameters (Public String Foo(String bar)
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#createMethodTitle(ExecutableMemberDoc)|createMethodTitle]](com.sun.javadoc.ExecutableMemberDoc m)&lt;/tt&gt;
+:Builds the Method Title. This Method is used by the Method Details list and the Method Summary List to create the Links
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage#printClassFooder()|printClassFooder]]()&lt;/tt&gt;
+:Prints the Class Page Fooder
+
+|}
+
+==Field Details==
+===cs===
+
+&lt;tt&gt;private ClassDoc cs&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===FormatClassPage(ClassDoc)===
+
+&lt;tt&gt;public FormatClassPage(com.sun.javadoc.ClassDoc cs)&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===printHead()===
+
+&lt;tt&gt;public printHead()&lt;/tt&gt;
+:Prints the Head of the Wiki Class Page (Short Description + TOC + Class Title)
+
+
+'''Return:'''
+:Class Page Title String
+
+
+----
+===printPackage()===
+
+&lt;tt&gt;public printPackage()&lt;/tt&gt;
+:Prints the Package Section with the Package Link
+
+
+'''Return:'''
+:Package Section String
+
+
+----
+===printDetailedDescription()===
+
+&lt;tt&gt;public printDetailedDescription()&lt;/tt&gt;
+:Prints the Detailed Description Section
+
+
+'''Return:'''
+:Detailed Description Section String
+
+
+----
+===printNestedClassList()===
+
+&lt;tt&gt;public printNestedClassList()&lt;/tt&gt;
+:Prints the Nested class List Section
+
+
+'''Return:'''
+:Nested class List Section String
+
+
+----
+===printFieldSummary()===
+
+&lt;tt&gt;public printFieldSummary()&lt;/tt&gt;
+:Prints the Field Summary Section
+
+
+'''Return:'''
+:Field Summary Section String
+
+
+----
+===printConstructorSummary()===
+
+&lt;tt&gt;public printConstructorSummary()&lt;/tt&gt;
+:Prints the Constructor Summary Section
+
+
+'''Return:'''
+:Constructor Summary Section String
+
+
+----
+===printMethodSummary()===
+
+&lt;tt&gt;public printMethodSummary()&lt;/tt&gt;
+:Prints the Method Summary Section
+
+
+'''Return:'''
+:Method Summary Section String
+
+
+----
+===printFieldDetail()===
+
+&lt;tt&gt;public printFieldDetail()&lt;/tt&gt;
+:Prints the Field Details Section
+
+
+'''Return:'''
+:Field Details Section String
+
+
+----
+===printConstructorDetail()===
+
+&lt;tt&gt;public printConstructorDetail()&lt;/tt&gt;
+:Prints the Constructor Details Section
+
+
+'''Return:'''
+:Constructor Details Section String
+
+
+----
+===printMethodDetails()===
+
+&lt;tt&gt;public printMethodDetails()&lt;/tt&gt;
+:Prints the Method Details Section
+
+
+'''Return:'''
+:Method Details Section String
+
+
+----
+===createMethodTags(Tag)===
+
+&lt;tt&gt;private createMethodTags(com.sun.javadoc.Tag tags)&lt;/tt&gt;
+:Creates the Method Tags List as a String
+
+
+'''Param:'''
+:&lt;tt&gt;tags&lt;/tt&gt; - Tag Array containing all Tags to be parsed
+'''Return:'''
+:Method Tag List String
+
+
+----
+===createMethodHead(ExecutableMemberDoc)===
+
+&lt;tt&gt;private createMethodHead(com.sun.javadoc.ExecutableMemberDoc m)&lt;/tt&gt;
+:Creates the Method Head with all Parameters (Public String Foo(String bar)
+
+
+'''Param:'''
+:&lt;tt&gt;m&lt;/tt&gt; - A Element of type ExecutableMemberDoc
+'''Return:'''
+:Method Head String
+
+
+----
+===createMethodTitle(ExecutableMemberDoc)===
+
+&lt;tt&gt;private createMethodTitle(com.sun.javadoc.ExecutableMemberDoc m)&lt;/tt&gt;
+:Builds the Method Title. This Method is used by the Method Details list and the Method Summary List to create the Links
+
+
+'''Param:'''
+:&lt;tt&gt;m&lt;/tt&gt; - Method ExecutableMemberDoc
+'''Return:'''
+:Method Title String (eg: "print(String)")
+
+
+----
+===printClassFooder()===
+
+&lt;tt&gt;public printClassFooder()&lt;/tt&gt;
+:Prints the Class Page Fooder
+
+
+'''Return:'''
+:Class Page Fooder String
+
+
+[[Category:Java_Class|F]]
+[[Category:Javadoc_Documentation|F]]
+</content><hash>9390fa5873986e850b4eacc7b8b2822</hash><time>1290265072648</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.formater.FormatCategoryPage</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.formater.FormatCategoryPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.formater|ch.zhaw.wikidoclet.formater]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; FormatCategoryPage FormatCategoryPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.formater.FormatPage&lt;/tt&gt;
+
+
+
+
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.formater#FormatCategoryPage|FormatCategoryPage]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.formater.FormatCategoryPage#printHead()|printHead]]()&lt;/tt&gt;
+:Prints the Head of the Wiki Category Page
+
+|}
+
+==Constructor Details==
+===FormatCategoryPage()===
+
+&lt;tt&gt;public FormatCategoryPage()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===printHead()===
+
+&lt;tt&gt;public printHead()&lt;/tt&gt;
+:Prints the Head of the Wiki Category Page
+
+
+
+[[Category:Java_Class|F]]
+[[Category:Javadoc_Documentation|F]]
+</content><hash>37dced61865060e1b45cdcce1d642955</hash><time>1290265072648</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page</title><content>
+__TOC__
+
+=Package: ch.zhaw.wikidoclet.page=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:com|com]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.wikidoclet|wikidoclet]]
+****[[Javadoc:ch.zhaw.wikidoclet.page|page]]
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.page.Page|Page]]||An Abstract Class which represents a neutral Wiki Page. The class has some Wiki Syntax functions to filter or modify Strings to have all Wiki Syntax values in one place. This Class has to be extended ... 
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.page.PackagePage|PackagePage]]||Contains all information regarding a package. The main purpose is to print the Package Wiki Page with the toString() method.
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.page.IndexPage|IndexPage]]||Represents a IndexPage
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.page.ClassPage|ClassPage]]||Contains all information regarding a Class. The main purpose is to print the Class Wiki Page with the toString() method.
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.page.CategoryPage|CategoryPage]]||Represents a Category Page
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>b14a272fb92c131959146afe438ee3d1</hash><time>1290265072648</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page.Page</title><content>An Abstract Class which represents a neutral Wiki Page. The class has some Wiki Syntax functions to filter or modify Strings to have all Wiki Syntax values in one place. This Class has to be extended ... 
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.page.Page=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.page|ch.zhaw.wikidoclet.page]]
+
+==Detailed Description==
+
+&lt;tt&gt;public abstract&lt;/tt&gt; Page Page
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+An Abstract Class which represents a neutral Wiki Page. The class has some Wiki Syntax functions to filter or modify Strings to have all Wiki Syntax values in one place. This Class has to be extended by all possible Page Types and must implement the toString() Method
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private StringBuilder [[Javadoc:ch.zhaw.wikidoclet.page.Page#pageTitle|pageTitle]]&lt;/tt&gt;||Contains the Wiki Page Title String
+|-
+| &lt;tt&gt;protected static Logger [[Javadoc:ch.zhaw.wikidoclet.page.Page#logger|logger]]&lt;/tt&gt;||Default Logger
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.page#Page|Page]]()&lt;/tt&gt;||
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public abstract&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.Page#toString()|toString]]()&lt;/tt&gt;
+:Abstract toString Method to print the Content of the Page
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.Page#getPageTitle()|getPageTitle]]()&lt;/tt&gt;
+:Getter for the Page Title
+
+|-
+| &lt;tt&gt;protected&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.Page#setPageTitle(StringBuilder)|setPageTitle]](java.lang.StringBuilder pageTitle)&lt;/tt&gt;
+:Used to set the Page Title from the Constructors of the Pages
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.Page#getHash()|getHash]]()&lt;/tt&gt;
+:Calculates an MD5 Hash of the toString method
+
+|}
+
+==Field Details==
+===pageTitle===
+
+&lt;tt&gt;private StringBuilder pageTitle&lt;/tt&gt;
+
+:Contains the Wiki Page Title String
+
+----
+===logger===
+
+&lt;tt&gt;protected static Logger logger&lt;/tt&gt;
+
+:Default Logger
+
+
+==Constructor Details==
+===Page()===
+
+&lt;tt&gt;public Page()&lt;/tt&gt;
+:
+
+
+
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public abstract toString()&lt;/tt&gt;
+:Abstract toString Method to print the Content of the Page
+
+
+
+----
+===getPageTitle()===
+
+&lt;tt&gt;public getPageTitle()&lt;/tt&gt;
+:Getter for the Page Title
+
+
+'''Return:'''
+:Page Title
+
+
+----
+===setPageTitle(StringBuilder)===
+
+&lt;tt&gt;protected setPageTitle(java.lang.StringBuilder pageTitle)&lt;/tt&gt;
+:Used to set the Page Title from the Constructors of the Pages
+
+
+'''Param:'''
+:pageTitle
+
+
+----
+===getHash()===
+
+&lt;tt&gt;public getHash()&lt;/tt&gt;
+:Calculates an MD5 Hash of the toString method
+
+
+'''Return:'''
+:MD5 Hash of the content of the Page
+
+
+[[Category:Java_Class|P]]
+[[Category:Javadoc_Documentation|P]]
+</content><hash>2b41dadc705ea6e4e75657c353b47efb</hash><time>1290265072648</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page.PackagePage</title><content>Contains all information regarding a package. The main purpose is to print the Package Wiki Page with the toString() method.
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.page.PackagePage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.page|ch.zhaw.wikidoclet.page]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; PackagePage PackagePage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.page.Page&lt;/tt&gt;
+
+
+Contains all information regarding a package. The main purpose is to print the Package Wiki Page with the toString() method.
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+'''See also:'''
+[[Javadoc:Rolf|Rolf]][[Javadoc:1.0|0]][[Javadoc:ch.zhaw.wikidoclet.page.Page|Page]]
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private FormatPackagePage [[Javadoc:ch.zhaw.wikidoclet.page.PackagePage#ppf|ppf]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.page#PackagePage|PackagePage]](com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;||Standard constructor to create a PackagePage
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.PackagePage#toString()|toString]]()&lt;/tt&gt;
+:Returns the PackagePage in a Wiki Page Syntax as String. This Package Page can be uploaded to any Mediawiki
+
+|}
+
+==Field Details==
+===ppf===
+
+&lt;tt&gt;private FormatPackagePage ppf&lt;/tt&gt;
+
+:
+'''See also:'''
+
+
+==Constructor Details==
+===PackagePage(PackageDoc)===
+
+&lt;tt&gt;public PackagePage(com.sun.javadoc.PackageDoc pkg)&lt;/tt&gt;
+:Standard constructor to create a PackagePage
+
+
+'''Param:'''
+:&lt;tt&gt;p&lt;/tt&gt; - A single PackageDoc Object from Javadoc
+'''See also:'''
+[[Javadoc:p
+            A single PackageDoc Object from Javadoc|p
+            A single PackageDoc Object from Javadoc]]
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public toString()&lt;/tt&gt;
+:Returns the PackagePage in a Wiki Page Syntax as String. This Package Page can be uploaded to any Mediawiki
+
+
+'''See also:'''
+[[Javadoc:ch.zhaw.wikidoclet.page.Page#toString()|Page#toString()]]
+[[Category:Java_Class|P]]
+[[Category:Javadoc_Documentation|P]]
+</content><hash>e3ba1fb3ad52ff287ef4ba889d478be</hash><time>1290265072658</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page.IndexPage</title><content>Represents a IndexPage
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.page.IndexPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.page|ch.zhaw.wikidoclet.page]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; IndexPage IndexPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.page.Page&lt;/tt&gt;
+
+
+Represents a IndexPage
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+'''See also:'''
+[[Javadoc:Rolf|Rolf]][[Javadoc:1.0|0]][[Javadoc:ch.zhaw.wikidoclet.page.Page|Page]]
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private List [[Javadoc:ch.zhaw.wikidoclet.page.IndexPage#pageList|pageList]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private FormatIndexPage [[Javadoc:ch.zhaw.wikidoclet.page.IndexPage#ipf|ipf]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.page#IndexPage|IndexPage]]()&lt;/tt&gt;||Default Constructor which only sets the Page Title. index(pageset) needs to be called before the toString method is called
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.IndexPage#toString()|toString]]()&lt;/tt&gt;
+:Returns the IndesPage Content
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.IndexPage#index(List)|index]](java.util.List pageList)&lt;/tt&gt;
+:This Method has to be executed before the toString can be done to add all the informations inside it.
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.IndexPage#getHash()|getHash]]()&lt;/tt&gt;
+:getHash from Page had to be overwritten because it would loop endless. Replaced the MD5 Hash of the content with the current TimeStamp
+
+|}
+
+==Field Details==
+===pageList===
+
+&lt;tt&gt;private List pageList&lt;/tt&gt;
+
+:
+'''See also:'''
+
+----
+===ipf===
+
+&lt;tt&gt;private FormatIndexPage ipf&lt;/tt&gt;
+
+:
+'''See also:'''
+
+
+==Constructor Details==
+===IndexPage()===
+
+&lt;tt&gt;public IndexPage()&lt;/tt&gt;
+:Default Constructor which only sets the Page Title. index(pageset) needs to be called before the toString method is called
+
+
+'''See also:'''
+
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public toString()&lt;/tt&gt;
+:Returns the IndesPage Content
+
+
+'''See also:'''
+[[Javadoc:ch.zhaw.wikidoclet.page.Page#toString()|Page#toString()]]
+----
+===index(List)===
+
+&lt;tt&gt;public index(java.util.List pageList)&lt;/tt&gt;
+:This Method has to be executed before the toString can be done to add all the informations inside it.
+
+
+'''Param:'''
+:&lt;tt&gt;pageSet&lt;/tt&gt; - current Page Set
+'''See also:'''
+[[Javadoc:pageSet
+            current Page Set|pageSet
+            current Page Set]]
+----
+===getHash()===
+
+&lt;tt&gt;public getHash()&lt;/tt&gt;
+:getHash from Page had to be overwritten because it would loop endless. Replaced the MD5 Hash of the content with the current TimeStamp
+
+
+'''Return:'''
+:TimeStamp of the IndexPage
+
+'''See also:'''
+[[Javadoc:TimeStamp of the IndexPage|TimeStamp of the IndexPage]]
+[[Category:Java_Class|I]]
+[[Category:Javadoc_Documentation|I]]
+</content><hash>6066a2a55ef7a319c72aedeabce0f0</hash><time>1290265072658</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page.ClassPage</title><content>Contains all information regarding a Class. The main purpose is to print the Class Wiki Page with the toString() method.
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.page.ClassPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.page|ch.zhaw.wikidoclet.page]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; ClassPage ClassPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.page.Page&lt;/tt&gt;
+
+
+Contains all information regarding a Class. The main purpose is to print the Class Wiki Page with the toString() method.
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+'''See also:'''
+[[Javadoc:Rolf|Rolf]][[Javadoc:1.0|0]][[Javadoc:ch.zhaw.wikidoclet.page.Page|Page]]
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private FormatClassPage [[Javadoc:ch.zhaw.wikidoclet.page.ClassPage#cpf|cpf]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.page#ClassPage|ClassPage]](com.sun.javadoc.ClassDoc c)&lt;/tt&gt;||Standard constructor to create a ClassPage
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.ClassPage#toString()|toString]]()&lt;/tt&gt;
+:Returns the ClassPage in a Wiki Page Syntax as String. This Class Page can be uploaded to any Mediawiki
+
+|}
+
+==Field Details==
+===cpf===
+
+&lt;tt&gt;private FormatClassPage cpf&lt;/tt&gt;
+
+:
+'''See also:'''
+
+
+==Constructor Details==
+===ClassPage(ClassDoc)===
+
+&lt;tt&gt;public ClassPage(com.sun.javadoc.ClassDoc c)&lt;/tt&gt;
+:Standard constructor to create a ClassPage
+
+
+'''Param:'''
+:&lt;tt&gt;p&lt;/tt&gt; - A single ClassDoc Object from Javadoc
+'''See also:'''
+[[Javadoc:p
+            A single ClassDoc Object from Javadoc|p
+            A single ClassDoc Object from Javadoc]]
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public toString()&lt;/tt&gt;
+:Returns the ClassPage in a Wiki Page Syntax as String. This Class Page can be uploaded to any Mediawiki
+
+
+'''See also:'''
+[[Javadoc:ch.zhaw.wikidoclet.page.Page#toString()|Page#toString()]]
+[[Category:Java_Class|C]]
+[[Category:Javadoc_Documentation|C]]
+</content><hash>f948f22120344086c2c6440e452dd38</hash><time>1290265072658</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.page.CategoryPage</title><content>Represents a Category Page
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.page.CategoryPage=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.page|ch.zhaw.wikidoclet.page]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; CategoryPage CategoryPage
+:&lt;tt&gt;extends ch.zhaw.wikidoclet.page.Page&lt;/tt&gt;
+
+
+Represents a Category Page
+
+'''Author:'''
+:Rolf
+
+'''Version:'''
+:1.0
+
+'''See also:'''
+[[Javadoc:Rolf|Rolf]][[Javadoc:1.0|0]][[Javadoc:ch.zhaw.wikidoclet.page.Page|Page]]
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private FormatCategoryPage [[Javadoc:ch.zhaw.wikidoclet.page.CategoryPage#cpf|cpf]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public [[Javadoc:ch.zhaw.wikidoclet.page#CategoryPage|CategoryPage]](java.lang.String title)&lt;/tt&gt;||Default Constructor which only sets the Page Title.
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.page.CategoryPage#toString()|toString]]()&lt;/tt&gt;
+:Returns the Category Page Content
+
+|}
+
+==Field Details==
+===cpf===
+
+&lt;tt&gt;private FormatCategoryPage cpf&lt;/tt&gt;
+
+:
+'''See also:'''
+
+
+==Constructor Details==
+===CategoryPage(String)===
+
+&lt;tt&gt;public CategoryPage(java.lang.String title)&lt;/tt&gt;
+:Default Constructor which only sets the Page Title.
+
+
+'''See also:'''
+
+==Method Details==
+===toString()===
+
+&lt;tt&gt;public toString()&lt;/tt&gt;
+:Returns the Category Page Content
+
+
+'''See also:'''
+[[Javadoc:ch.zhaw.wikidoclet.page.Page#toString()|Page#toString()]]
+[[Category:Java_Class|C]]
+[[Category:Javadoc_Documentation|C]]
+</content><hash>6a914b682c995ef8476838932cf2252</hash><time>1290265072658</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.util</title><content>
+__TOC__
+
+=Package: ch.zhaw.wikidoclet.util=
+
+
+==Detailed Description==
+
+
+
+
+==Package Tree==
+*[[Javadoc:com|com]]
+**[[Javadoc:ch.zhaw|zhaw]]
+***[[Javadoc:ch.zhaw.wikidoclet|wikidoclet]]
+****[[Javadoc:ch.zhaw.wikidoclet.util|util]]
+
+==Classes==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Properties
+! style="background: #CCCCFF" | Name
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg|WikiDocletCfg]]||
+|}
+
+[[Category:Java_Package|c]]
+[[Category:Javadoc_Documentation|c]]
+</content><hash>74cc54d046b89b98abcceded7ce79f3b</hash><time>1290265072658</time></page><page><title>Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg</title><content>
+__TOC__
+
+=Class:ch.zhaw.wikidoclet.util.WikiDocletCfg=
+
+
+==Package==
+
+[[Javadoc:ch.zhaw.wikidoclet.util|ch.zhaw.wikidoclet.util]]
+
+==Detailed Description==
+
+&lt;tt&gt;public&lt;/tt&gt; WikiDocletCfg WikiDocletCfg
+:&lt;tt&gt;extends java.lang.Object&lt;/tt&gt;
+
+
+
+
+
+==Field Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Field
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFGFILE|CFGFILE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_ROOT|WIKI_DOCLET_XML_ROOT]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_PAGE|WIKI_DOCLET_XML_PAGE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_TITLE|WIKI_DOCLET_XML_TITLE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_CONTENT|WIKI_DOCLET_XML_CONTENT]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_HASH|WIKI_DOCLET_XML_HASH]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_XML_TIME|WIKI_DOCLET_XML_TIME]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#WIKI_DOCLET_INDEX_PAGE_NAME_ATTRIBUTE|WIKI_DOCLET_INDEX_PAGE_NAME_ATTRIBUTE]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_XML|CFG_PAR_XML]]&lt;/tt&gt;||Properties Parameter: XML Path for Output
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_XML_DESC|CFG_PAR_XML_DESC]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_XML_DEF|CFG_PAR_XML_DEF]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_PROJ|CFG_PAR_PROJ]]&lt;/tt&gt;||Properties Parameter: Name for the Project (Optional)
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_PROJ_DESC|CFG_PAR_PROJ_DESC]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_PROJ_DEF|CFG_PAR_PROJ_DEF]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_NSPACE|CFG_PAR_NSPACE]]&lt;/tt&gt;||Properties Parameter Name for the Wiki Namespace
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_NSPACE_DESC|CFG_PAR_NSPACE_DESC]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_NSPACE_DEF|CFG_PAR_NSPACE_DEF]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_IPAGE|CFG_PAR_IPAGE]]&lt;/tt&gt;||Properties Parameter Name for the Project Name
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_IPAGE_DESC|CFG_PAR_IPAGE_DESC]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#CFG_PAR_IPAGE_DEF|CFG_PAR_IPAGE_DEF]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final String [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#OPTIONSET|OPTIONSET]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;public static final Hashtable [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#VALID_PARAMS|VALID_PARAMS]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static Logger [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#logger|logger]]&lt;/tt&gt;||
+|-
+| &lt;tt&gt;private static WikiDocletCfg [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#instance|instance]]&lt;/tt&gt;||Current Instance from Singleton
+|-
+| &lt;tt&gt;private Properties [[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#properties|properties]]&lt;/tt&gt;||
+|}
+
+==Constructor Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Method
+! style="background: #CCCCFF" | Description
+|-
+| &lt;tt&gt;private [[Javadoc:ch.zhaw.wikidoclet.util#WikiDocletCfg|WikiDocletCfg]]()&lt;/tt&gt;||Singleton: Create Properties with Default Settings
+|}
+
+==Method Summary==
+{| class="wikitable"  border="1"
+! style="background: #CCCCFF" | Type
+! style="background: #CCCCFF" | Symbol
+|-
+| &lt;tt&gt;public static&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#getInstance()|getInstance]]()&lt;/tt&gt;
+:Singleton Get Instance
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#getConfigValue(String)|getConfigValue]](java.lang.String param)&lt;/tt&gt;
+:Get a specified parameter value
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#getProperties()|getProperties]]()&lt;/tt&gt;
+:Get all Properties stored in the Configurator
+
+|-
+| &lt;tt&gt;public&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#loadDocletConfiguration(String)|loadDocletConfiguration]](java.lang.String javaDocArgs)&lt;/tt&gt;
+:Loads all the &lt;code&gt;Config Parameters&lt;/code&gt; according to their imporance.
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#parseArgs(Options, String)|parseArgs]](org.apache.commons.cli.Options options, java.lang.String args)&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#loadCfgFile()|loadCfgFile]]()&lt;/tt&gt;
+:
+
+|-
+| &lt;tt&gt;private&lt;/tt&gt;||&lt;tt&gt;[[Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg#writeCfgFile()|writeCfgFile]]()&lt;/tt&gt;
+:
+
+|}
+
+==Field Details==
+===CFGFILE===
+
+&lt;tt&gt;private static final String CFGFILE&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_ROOT===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_ROOT&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_PAGE===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_PAGE&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_TITLE===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_TITLE&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_CONTENT===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_CONTENT&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_HASH===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_HASH&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_XML_TIME===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_XML_TIME&lt;/tt&gt;
+
+:
+
+----
+===WIKI_DOCLET_INDEX_PAGE_NAME_ATTRIBUTE===
+
+&lt;tt&gt;public static final String WIKI_DOCLET_INDEX_PAGE_NAME_ATTRIBUTE&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_XML===
+
+&lt;tt&gt;public static final String CFG_PAR_XML&lt;/tt&gt;
+
+:Properties Parameter: XML Path for Output
+
+----
+===CFG_PAR_XML_DESC===
+
+&lt;tt&gt;public static final String CFG_PAR_XML_DESC&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_XML_DEF===
+
+&lt;tt&gt;private static final String CFG_PAR_XML_DEF&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_PROJ===
+
+&lt;tt&gt;public static final String CFG_PAR_PROJ&lt;/tt&gt;
+
+:Properties Parameter: Name for the Project (Optional)
+
+----
+===CFG_PAR_PROJ_DESC===
+
+&lt;tt&gt;public static final String CFG_PAR_PROJ_DESC&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_PROJ_DEF===
+
+&lt;tt&gt;private static final String CFG_PAR_PROJ_DEF&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_NSPACE===
+
+&lt;tt&gt;public static final String CFG_PAR_NSPACE&lt;/tt&gt;
+
+:Properties Parameter Name for the Wiki Namespace
+
+----
+===CFG_PAR_NSPACE_DESC===
+
+&lt;tt&gt;public static final String CFG_PAR_NSPACE_DESC&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_NSPACE_DEF===
+
+&lt;tt&gt;private static final String CFG_PAR_NSPACE_DEF&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_IPAGE===
+
+&lt;tt&gt;public static final String CFG_PAR_IPAGE&lt;/tt&gt;
+
+:Properties Parameter Name for the Project Name
+
+----
+===CFG_PAR_IPAGE_DESC===
+
+&lt;tt&gt;public static final String CFG_PAR_IPAGE_DESC&lt;/tt&gt;
+
+:
+
+----
+===CFG_PAR_IPAGE_DEF===
+
+&lt;tt&gt;private static final String CFG_PAR_IPAGE_DEF&lt;/tt&gt;
+
+:
+
+----
+===OPTIONSET===
+
+&lt;tt&gt;public static final String OPTIONSET&lt;/tt&gt;
+
+:
+
+----
+===VALID_PARAMS===
+
+&lt;tt&gt;public static final Hashtable VALID_PARAMS&lt;/tt&gt;
+
+:
+
+----
+===logger===
+
+&lt;tt&gt;private static Logger logger&lt;/tt&gt;
+
+:
+
+----
+===instance===
+
+&lt;tt&gt;private static WikiDocletCfg instance&lt;/tt&gt;
+
+:Current Instance from Singleton
+
+----
+===properties===
+
+&lt;tt&gt;private Properties properties&lt;/tt&gt;
+
+:
+
+
+==Constructor Details==
+===WikiDocletCfg()===
+
+&lt;tt&gt;private WikiDocletCfg()&lt;/tt&gt;
+:Singleton: Create Properties with Default Settings
+
+
+
+==Method Details==
+===getInstance()===
+
+&lt;tt&gt;public static getInstance()&lt;/tt&gt;
+:Singleton Get Instance
+
+
+'''Return:'''
+:Instance of the configurator
+
+
+----
+===getConfigValue(String)===
+
+&lt;tt&gt;public getConfigValue(java.lang.String param)&lt;/tt&gt;
+:Get a specified parameter value
+
+
+'''Param:'''
+:&lt;tt&gt;param&lt;/tt&gt; - Parameter Name as String (Use the Static Variables)
+'''Return:'''
+:Parameter Value
+
+
+----
+===getProperties()===
+
+&lt;tt&gt;public getProperties()&lt;/tt&gt;
+:Get all Properties stored in the Configurator
+
+
+'''Return:'''
+:Properties Object
+
+
+----
+===loadDocletConfiguration(String)===
+
+&lt;tt&gt;public loadDocletConfiguration(java.lang.String javaDocArgs)&lt;/tt&gt;
+:Loads all the &lt;code&gt;Config Parameters&lt;/code&gt; according to their imporance.
+
+
+'''Param:'''
+:&lt;tt&gt;javaDocArgs&lt;/tt&gt; - String Multi Array from Javadoc
+
+----
+===parseArgs(Options, String)===
+
+&lt;tt&gt;private parseArgs(org.apache.commons.cli.Options options, java.lang.String args)&lt;/tt&gt;
+:
+
+
+
+----
+===loadCfgFile()===
+
+&lt;tt&gt;private loadCfgFile()&lt;/tt&gt;
+:
+
+
+
+----
+===writeCfgFile()===
+
+&lt;tt&gt;private writeCfgFile()&lt;/tt&gt;
+:
+
+
+
+[[Category:Java_Class|W]]
+[[Category:Javadoc_Documentation|W]]
+</content><hash>1dd07fb149f54a7b1fc3b52651989d</hash><time>1290265072668</time></page><page><title>Javadoc:Index</title><content>Javadoc:ch.zhaw.helloworld,f84fb874be5888bde2c4142b47d8021
+Javadoc:ch.zhaw.helloworld.test,3016f6941bebbb4b2620a24d86e5672a
+Javadoc:ch.zhaw.helloworld.PrintPackagesClassesMethods,b1f1728ba88bea3ac357205a8244fbfe
+Javadoc:ch.zhaw.helloworld.Painter,1c6bdb21613608f5b0fc533edc1944
+Javadoc:ch.zhaw.helloworld.HelloWorld4,5a41c4a390264e257b56877b1d57ad6
+Javadoc:ch.zhaw.helloworld.HelloWorld4.Outputer,e5de6888530a29485ffe0e376c42171
+Javadoc:ch.zhaw.helloworld.HelloWorld4.Blub,c98e7fb55c5f7c1895d88cc45a951d1
+Javadoc:ch.zhaw.helloworld.Graphics,cf52e7b06c8af71fc86a39dfdb8a8127
+Javadoc:ch.zhaw.logtester,2572b448f7f1859b0d3a6d531a1a44c
+Javadoc:ch.zhaw.logtester.LogTester,32d2c959f9d01fb13920448f8561279f
+Javadoc:ch.zhaw.wikidoclet,2d95717cc4178bc21d8662a80f6bdda
+Javadoc:ch.zhaw.wikidoclet.XMLWriterHandler,dba98683d7a9fc6eb61754317ee2382c
+Javadoc:ch.zhaw.wikidoclet.WikiDoclet,e0907d618a6f8cc6df651b672d831a9
+Javadoc:ch.zhaw.wikidoclet.PageWriter,3967e051f93198da97e67d419756b9
+Javadoc:ch.zhaw.wikidoclet.AnalyseRootDoc,7b34abf230253289034c538a96f1bf3
+Javadoc:ch.zhaw.wikidoclet.formater,5c4dee998c3e366c813422c8d02790bd
+Javadoc:ch.zhaw.wikidoclet.formater.FormatPage,7ecfda33524ef0d913538ca2f12ec580
+Javadoc:ch.zhaw.wikidoclet.formater.FormatPage.WikiTable,c66367d3ecb2c0419e65b11313b1a8fc
+Javadoc:ch.zhaw.wikidoclet.formater.FormatPackagePage,1d5a973b5a43319ad98e7fd1b525703f
+Javadoc:ch.zhaw.wikidoclet.formater.FormatIndexPage,5086d659053ad13d35a83318ad63788
+Javadoc:ch.zhaw.wikidoclet.formater.FormatClassPage,9390fa5873986e850b4eacc7b8b2822
+Javadoc:ch.zhaw.wikidoclet.formater.FormatCategoryPage,37dced61865060e1b45cdcce1d642955
+Javadoc:ch.zhaw.wikidoclet.page,b14a272fb92c131959146afe438ee3d1
+Javadoc:ch.zhaw.wikidoclet.page.Page,2b41dadc705ea6e4e75657c353b47efb
+Javadoc:ch.zhaw.wikidoclet.page.PackagePage,e3ba1fb3ad52ff287ef4ba889d478be
+Javadoc:ch.zhaw.wikidoclet.page.IndexPage,6066a2a55ef7a319c72aedeabce0f0
+Javadoc:ch.zhaw.wikidoclet.page.ClassPage,f948f22120344086c2c6440e452dd38
+Javadoc:ch.zhaw.wikidoclet.page.CategoryPage,6a914b682c995ef8476838932cf2252
+Javadoc:ch.zhaw.wikidoclet.util,74cc54d046b89b98abcceded7ce79f3b
+Javadoc:ch.zhaw.wikidoclet.util.WikiDocletCfg,1dd07fb149f54a7b1fc3b52651989d
+Javadoc:Index,12902651232748
+Category:Java Class,64fa49227be854b73c844e1cb34fe170
+Category:Java Package,64fa49227be854b73c844e1cb34fe170
+Category:Javadoc Documentation,64fa49227be854b73c844e1cb34fe170
+</content><hash>12902651232748</hash><time>1290265072748</time></page><page><title>Category:Java Class</title><content>Javadoc Category</content><hash>64fa49227be854b73c844e1cb34fe170</hash><time>1290265072748</time></page><page><title>Category:Java Package</title><content>Javadoc Category</content><hash>64fa49227be854b73c844e1cb34fe170</hash><time>1290265072748</time></page><page><title>Category:Javadoc Documentation</title><content>Javadoc Category</content><hash>64fa49227be854b73c844e1cb34fe170</hash><time>1290265072748</time></page></wikiDocletPages>
+
